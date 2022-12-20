@@ -1,0 +1,2736 @@
+Nombank Tags for Sentence 0: Then in a lightning plunge , the Dow Jones  industrials  in barely an hour surrendered about a third of their gains this year ,  chalking  up a 190.58-point , or 6.9  %  ,  loss  on the day in gargantuan trading volume .
+Penn Treebank for Sentence 0:
+
+((S (ADVP (RB Then)) (PP (IN in) (NP (DT a) (NN lightning) (NN plunge)))
+  (|,| |,|) (NP (DT the) (NP (NNP Dow) (NNP Jones)) (NNS industrials))
+  (PP (IN in) (NP (QP (ADVP (RB barely)) (DT an)) (NN hour)))
+  (VP (VG (VBD surrendered))
+   (NP (NP (QP (ADVP (RB about)) (DT a)) (NN third))
+    (PP (IN of) (NP (NP (PRP$ their) (NNS gains)) (NP (DT this) (NN year)))))
+   (|,| |,|)
+   (S
+    (VP (VG (VBG chalking)) (ADVP (RP up))
+     (NP
+      (NP (DT a)
+       (NP (NP (NN 190.58-point)) (|,| |,|) (CC or) (NP (CD |6.9|) (NN %)))
+       (|,| |,|) (NN loss))
+      (PP (IN on) (NP (DT the) (NN day))))
+     (PP (IN in) (NP (JJ gargantuan) (NN trading) (NN volume))))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 1: In percentage terms , however , the Dow 's dive was the 12th-worst ever and the sharpest since the  market   fell  156.83 , or 8  %  , a week after Black Monday .
+Penn Treebank for Sentence 1:
+
+((S (PP (IN In) (NP (NN percentage) (NNS terms))) (|,| |,|)
+  (ADVP (ADVX (RB however))) (|,| |,|)
+  (NP (NP (DT the) (NNP Dow) (POS |'s|)) (NN dive))
+  (VP (VG (VBD was))
+   (NP (NP (NP (DT the) (NN 12th-worst)) (ADVP (RB ever))) (CC and)
+    (NP (NP (DT the) (JJS sharpest))
+     (SBAR (IN since)
+      (S (NP (DT the) (NN market))
+       (VP (VG (VBD fell))
+        (NP (NP (CD |156.83|)) (|,| |,|) (CC or) (NP (CD 8) (NN %))) (|,| |,|)
+        (PP (NP (DT a) (NN week)) (IN after)
+         (NP (NNP Black) (NNP Monday)))))))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 2: The  Dow   fell  22.6  %  on Black Monday .
+Penn Treebank for Sentence 2:
+
+((S (NP (DT The) (NNP Dow))
+  (VP (VG (VBD fell)) (NP (CD |22.6|) (NN %))
+   (PP (IN on) (NP (NNP Black) (NNP Monday))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 3: The $ 409 million bid is estimated by Mr. Simpson as representing 75  %  of the  value  of all Hooker real-estate holdings in the U.S. .
+Penn Treebank for Sentence 3:
+
+((S (NP (DT The) (NP (QP (NP ($ $)) (NP (CD |409|) (CD million)))) (NN bid))
+  (VP (VG (VBZ is) (VBN estimated)) (PP (IN by) (NP (NNP Mr.) (NNP Simpson)))
+   (SBAR (IN as)
+    (S
+     (S
+      (VP (VG (VBG representing))
+       (NP (NP (CD |75|) (NN %))
+        (PP (IN of)
+         (NP (NP (DT the) (NN value))
+          (PP (IN of)
+           (NP (NP (DT all) (NNP Hooker) (NN real-estate) (NNS holdings))
+            (PP (IN in) (NP (DT the) (NNP U.S.)))))))))))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 4: Canadian steel-ingot  production  totaled 291,890 metric tons in the week ended Oct. 7 , up 14.8  %  from the preceding week 's total of 254,280 tons , Statistics Canada , a federal agency , said .
+Penn Treebank for Sentence 4:
+
+((S
+  (S (NP (JJ Canadian) (NN steel-ingot) (NN production))
+   (VP (VG (VBD totaled)) (NP (CD |291,890|) (JJ metric) (NNS tons))
+    (PP (IN in)
+     (NP (NP (DT the) (NN week))
+      (S (VP (VG (VBN ended)) (NP (NNP Oct.) (CD 7))))))
+    (|,| |,|)
+    (PP (IN up) (NP (CD |14.8|) (NN %))
+     (PP (IN from)
+      (NP (NP (NP (DT the) (JJ preceding) (NN week) (POS |'s|)) (NN total))
+       (PP (IN of) (NP (CD |254,280|) (NNS tons))))))))
+  (|,| |,|)
+  (NP (NP (NNP Statistics) (NNP Canada)) (|,| |,|)
+   (NP (DT a) (JJ federal) (NN agency)))
+  (|,| |,|) (VP (VG (VBD said))) (|.| |.|)))
+
+Nombank Tags for Sentence 5: The week 's  total  was up 6.2  %  from 274,963 tons a year earlier .
+Penn Treebank for Sentence 5:
+
+((S (NP (NP (DT The) (NN week) (POS |'s|)) (NN total))
+  (VP (VG (VBD was))
+   (PP (IN up) (NP (CD |6.2|) (NN %))
+    (PP (IN from) (NP (CD |274,963|) (NNS tons))
+     (ADVP (NP (DT a) (NN year)) (RBR earlier)))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 6: The year-to-date  total  was 12,006,883 tons , up 7.8  %  from 11,141,711 tons a year earlier .
+Penn Treebank for Sentence 6:
+
+((S (NP (DT The) (NN year-to-date) (NN total))
+  (VP (VG (VBD was)) (NP (CD |12,006,883|) (NNS tons)) (|,| |,|)
+   (PP (IN up) (NP (CD |7.8|) (NN %))
+    (PP (IN from) (NP (CD |11,141,711|) (NNS tons))
+     (ADVP (NP (DT a) (NN year)) (RBR earlier)))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 7: As a group , stock funds held 10.2  %  of  assets  in cash as of August , the latest figures available from the Investment Company Institute .
+Penn Treebank for Sentence 7:
+
+((S (SBAR (IN As) (S (NP (DT a) (NN group)))) (|,| |,|)
+  (NP (NN stock) (NNS funds))
+  (VP (VG (VBD held))
+   (NP (NP (CD |10.2|) (NN %)) (PP (IN of) (NP (NNS assets))))
+   (PP (IN in) (NP (NN cash))) (PP (IN as) (PP (IN of) (NP (NNP August))))
+   (|,| |,|)
+   (NP (NP (DT the) (ADJP (JJS latest)) (NNS figures))
+    (S
+     (ADJP (JJ available)
+      (PP (IN from)
+       (NP (DT the) (NP (NNP Investment) (NNP Company) (NNP Institute))))))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 8: As of yesterday afternoon , the redemptions represented less than 15  %  of the total cash  position  of about $ 2 billion of Fidelity 's stock funds .
+Penn Treebank for Sentence 8:
+
+((S (PP (IN As) (PP (IN of) (NP (NN yesterday) (NN afternoon)))) (|,| |,|)
+  (NP (DT the) (NNS redemptions))
+  (VP (VG (VBD represented))
+   (NP (NP (QP (QP (ADVP (RBR less)) (IN than)) (QP (CD |15|))) (NN %))
+    (PP (IN of)
+     (NP (NP (DT the) (JJ total) (NN cash) (NN position))
+      (PP (IN of)
+       (NP (QP (ADVP (RB about)) (NP ($ $)) (NP (CD 2) (CD billion)))))
+      (PP (IN of)
+       (NP (NP (NNP Fidelity) (POS |'s|)) (NN stock) (NNS funds)))))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 9: But she expects prices to rebound soon and is telling investors she expects the stock  market  wo n't  decline  more than 10  %  to 15 % from recent highs .
+Penn Treebank for Sentence 9:
+
+((SBAR (CONJP (CC But))
+  (S (NP (PRP she))
+   (VP
+    (VP (VG (VBZ expects))
+     (S (NP (NNS prices)) (VP (VG (TO to) (VB rebound)) (ADVP (RB soon)))))
+    (CONJP (CC and))
+    (VP (VG (VBZ is) (VBG telling)) (NP (NNS investors))
+     (SBAR
+      (S (NP (PRP she))
+       (VP (VG (VBZ expects))
+        (SBAR
+         (S (NP (DT the) (NN stock) (NN market))
+          (VP (VG (MD wo) (ADVP (RB |n't|)) (VB decline))
+           (NP (JJR more) (IN than) (NP (CD |10|) (NN %)) (TO to)
+            (NP (CD |15|) (NN %)))
+           (PP (IN from) (NP (ADJP (JJ recent)) (NNS highs)))))))))))
+   (|.| |.|))))
+
+Nombank Tags for Sentence 10: But she expects prices to rebound soon and is telling investors she expects the stock  market  wo n't  decline  more than 10 % to 15  %  from recent highs .
+Penn Treebank for Sentence 10:
+
+((SBAR (CONJP (CC But))
+  (S (NP (PRP she))
+   (VP
+    (VP (VG (VBZ expects))
+     (S (NP (NNS prices)) (VP (VG (TO to) (VB rebound)) (ADVP (RB soon)))))
+    (CONJP (CC and))
+    (VP (VG (VBZ is) (VBG telling)) (NP (NNS investors))
+     (SBAR
+      (S (NP (PRP she))
+       (VP (VG (VBZ expects))
+        (SBAR
+         (S (NP (DT the) (NN stock) (NN market))
+          (VP (VG (MD wo) (ADVP (RB |n't|)) (VB decline))
+           (NP (JJR more) (IN than) (NP (CD |10|) (NN %)) (TO to)
+            (NP (CD |15|) (NN %)))
+           (PP (IN from) (NP (ADJP (JJ recent)) (NNS highs)))))))))))
+   (|.| |.|))))
+
+Nombank Tags for Sentence 11: But Mr. Baker called the letter -- and the company 's offer of a 10  %   wage   increase  over the life of the pact , plus bonuses -- `` very weak . ''
+Penn Treebank for Sentence 11:
+
+((SBAR (CONJP (CC But))
+  (S (NP (NNP Mr.) (NNP Baker))
+   (VP (VG (VBD called))
+    (S
+     (NP (NP (DT the) (NN letter)) (|:| --) (CC and)
+      (NP (NP (NP (DT the) (NN company) (POS |'s|)) (NN offer))
+       (PP (IN of)
+        (NP
+         (NP (NP (DT a) (NP (CD |10|) (NN %)) (NN wage) (NN increase))
+          (PP (IN over)
+           (NP (NP (DT the) (NN life)) (PP (IN of) (NP (DT the) (NN pact))))))
+         (|,| |,|) (CC plus) (NP (NNS bonuses)))))
+      (|:| --))
+     (|``| |``|) (ADJP (ADVP (RB very)) (JJ weak))))
+   (|.| |.|) (|''| |''|))))
+
+Nombank Tags for Sentence 12: Under terms of the plan , independent generators would be able to compete for 15  %  of  customers  until 1994 , and for another 10 % between 1994 and 1998 .
+Penn Treebank for Sentence 12:
+
+((S (PP (IN Under) (NP (NP (NNS terms)) (PP (IN of) (NP (DT the) (NN plan)))))
+  (|,| |,|) (NP (JJ independent) (NNS generators))
+  (VP (VG (MD would) (VB be))
+   (ADJP (JJ able)
+    (S
+     (VP
+      (VP (VG (AUXP (TO to)) (VB compete))
+       (PP (IN for)
+        (NP (NP (CD |15|) (NN %)) (PP (IN of) (NP (NNS customers)))))
+       (PP (IN until) (NP (CD |1994|))))
+      (|,| |,|) (CC and)
+      (VP (PP (IN for) (NP (DT another) (CD |10|) (NN %)))
+       (NP (IN between) (QP (CD |1994|) (CC and) (CD |1998|))))))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 13: The company is putting up only 10  %  of the  capital  , although it is responsible for providing management , planning and processing services to the joint venture .
+Penn Treebank for Sentence 13:
+
+((S
+  (S (NP (DT The) (NN company))
+   (VP (VG (VG (VBZ is)) (VBG putting)) (ADVP (RP up))
+    (NP (NP (QP (ADVP (RB only)) (QP (CD |10|))) (NN %))
+     (PP (IN of) (NP (DT the) (NN capital))))
+    (|,| |,|)))
+  (SBAR (PX (IN although))
+   (S (NP (PRP it))
+    (VP (VG (VBZ is))
+     (ADJP (JJ responsible)
+      (PP (IN for)
+       (S
+        (VP (VG (VBG providing))
+         (NP
+          (NX (NN management) (|,| |,|) (NN planning) (CC and) (NN processing))
+          (NNS services))
+         (PP (IN to) (NP (DT the) (JJ joint) (NN venture))))))))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 14: The plant usually accounts for 20 % to 25 % of Quantum 's polyethylene production and 50  %  of its ethylene  production  .
+Penn Treebank for Sentence 14:
+
+((S (NP (DT The) (NN plant)) (ADVP (RB usually))
+  (VP (VG (VBZ accounts))
+   (PP (IN for)
+    (NP (NP (NP (CD |20|) (NN %)) (TO to) (NP (CD |25|) (NN %)))
+     (PP (IN of)
+      (NP (NP (NNP Quantum) (POS |'s|)) (NN polyethylene) (NN production)))
+     (CC and)
+     (NP (NP (CD |50|) (NN %))
+      (PP (IN of) (NP (PRP$ its) (NN ethylene) (NN production)))))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 15: The plant usually accounts for 20  %  to 25 % of Quantum 's polyethylene  production  and 50 % of its ethylene production .
+Penn Treebank for Sentence 15:
+
+((S (NP (DT The) (NN plant)) (ADVP (RB usually))
+  (VP (VG (VBZ accounts))
+   (PP (IN for)
+    (NP (NP (NP (CD |20|) (NN %)) (TO to) (NP (CD |25|) (NN %)))
+     (PP (IN of)
+      (NP (NP (NNP Quantum) (POS |'s|)) (NN polyethylene) (NN production)))
+     (CC and)
+     (NP (NP (CD |50|) (NN %))
+      (PP (IN of) (NP (PRP$ its) (NN ethylene) (NN production)))))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 16: The plant usually accounts for 20 % to 25  %  of Quantum 's polyethylene  production  and 50 % of its ethylene production .
+Penn Treebank for Sentence 16:
+
+((S (NP (DT The) (NN plant)) (ADVP (RB usually))
+  (VP (VG (VBZ accounts))
+   (PP (IN for)
+    (NP (NP (NP (CD |20|) (NN %)) (TO to) (NP (CD |25|) (NN %)))
+     (PP (IN of)
+      (NP (NP (NNP Quantum) (POS |'s|)) (NN polyethylene) (NN production)))
+     (CC and)
+     (NP (NP (CD |50|) (NN %))
+      (PP (IN of) (NP (PRP$ its) (NN ethylene) (NN production)))))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 17: Mexico , which was one of the first countries to conclude its steel talks with the U.S. , virtually doubled its quota to 0.95  %  of the U.S. steel  market  from 0.48 % under the previous quotas .
+Penn Treebank for Sentence 17:
+
+((S
+  (NP (NP (NNP Mexico)) (|,| |,|)
+   (SBAR (WHNP (WDT which))
+    (S
+     (VP (VG (VBD was))
+      (NP (NP (CD one))
+       (PP (IN of)
+        (NP (NP (DT the) (JJ first) (NNS countries))
+         (SBAR
+          (S
+           (VP (VG (TO to) (VB conclude))
+            (NP (NP (PRP$ its) (NN steel) (NNS talks))
+             (PP (IN with) (NP (DT the) (NNP U.S.))))))))))))))
+  (|,| |,|)
+  (VP (ADVP (RB virtually)) (VG (VBD doubled)) (NP (PRP$ its) (NN quota))
+   (PP (IN to)
+    (NP (NP (CD |0.95|) (NN %))
+     (PP (IN of) (NP (DT the) (NNP U.S.) (NN steel) (NN market)))))
+   (PP (IN from)
+    (NP (NP (CD |0.48|) (NN %))
+     (PP (IN under) (NP (DT the) (ADJP (JJ previous)) (NNS quotas))))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 18: That increase rises to slightly more than 2  %  of the U.S.  market  if a joint Korean-U.S. steel project is included .
+Penn Treebank for Sentence 18:
+
+((S
+  (S (NP (DT That) (NN increase))
+   (VP (VG (VBZ rises))
+    (PP (IN to)
+     (NP
+      (NP
+       (QP (QP (ADJP (ADVP (RB slightly)) (JJR more)) (IN than)) (QP (CD 2)))
+       (NN %))
+      (PP (IN of) (NP (DT the) (NNP U.S.) (NN market)))))))
+  (SBAR (PX (IN if))
+   (S (NP (DT a) (JJ joint) (NNP Korean-U.S.) (NN steel) (NN project))
+    (VP (VG (VBZ is) (VBN included)))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 19: The EC steel industry , which has been coping with strong European demand , has been supplying about 5  %  of the U.S.  market  compared with recent quotas of about 6.7 % .
+Penn Treebank for Sentence 19:
+
+((S
+  (NP (NP (DT The) (NNP EC) (NN steel) (NN industry)) (|,| |,|)
+   (SBAR (WHNP (WDT which))
+    (S
+     (VP (VG (VBZ has) (VBN been) (VBG coping))
+      (PP (IN with) (NP (JJ strong) (JJ European) (NN demand)))))))
+  (|,| |,|)
+  (VP (VG (VBZ has) (VBN been) (VBG supplying))
+   (NP (NP (QP (ADVP (RB about)) (CD 5)) (NN %))
+    (PP (IN of) (NP (DT the) (NNP U.S.) (NN market)))
+    (S
+     (VP (VG (VBN compared))
+      (PP (IN with)
+       (NP (NP (ADJP (JJ recent)) (NNS quotas))
+        (PP (IN of) (NP (QP (ADVP (RB about)) (CD |6.7|)) (NN %)))))))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 20: Japan has been shipping steel to total about 4.5  %  of the U.S.  market  compared with a quota of 5.9 % .
+Penn Treebank for Sentence 20:
+
+((S (NP (NNP Japan))
+  (VP (VG (VBZ has) (VBN been) (VBG shipping))
+   (NP (NP (NN steel))
+    (SBAR
+     (S
+      (VP (VG (TO to) (VB total))
+       (NP (NP (QP (ADVP (RB about)) (CD |4.5|)) (NN %))
+        (PP (IN of) (NP (DT the) (NNP U.S.) (NN market)))
+        (S
+         (VP (VG (VBN compared))
+          (PP (IN with)
+           (NP (NP (DT a) (NN quota))
+            (PP (IN of) (NP (CD |5.9|) (NN %)))))))))))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 21: In the recent talks , the EC had its quota increased about 300,000 tons , to 7  %  of the U.S.  market  from 6.7 % in 1988 .
+Penn Treebank for Sentence 21:
+
+((S (PP (IN In) (NP (DT the) (ADJP (JJ recent)) (NNS talks))) (|,| |,|)
+  (NP (DT the) (NNP EC))
+  (VP (VG (VBD had))
+   (S (NP (PRP$ its) (NN quota))
+    (VP (VG (VBD increased)) (NP (ADVP (RB about)) (CD |300,000|) (NNS tons))
+     (|,| |,|)
+     (PP (IN to)
+      (NP (NP (CD 7) (NN %))
+       (PP (IN of) (NP (DT the) (NNP U.S.) (NN market)))))
+     (PP (IN from) (NP (CD |6.7|) (NN %)) (PP (IN in) (NP (CD |1988|)))))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 22: Japan , the EC , Brazil , Mexico and South Korea provide about 80  %  of the  steel  imported to the U.S. under the quota program .
+Penn Treebank for Sentence 22:
+
+((S
+  (NP (NP (NNP Japan)) (|,| |,|) (NP (DT the) (NNP EC)) (|,| |,|)
+   (NP (NNP Brazil)) (|,| |,|) (NP (NNP Mexico)) (CC and)
+   (NP (NNP South) (NNP Korea)))
+  (VP (VG (VBP provide))
+   (NP (NP (QP (ADVP (RB about)) (CD |80|)) (NN %))
+    (PP (IN of)
+     (NP (NP (DT the) (NN steel))
+      (S
+       (VP (VG (VBN imported)) (PP (IN to) (NP (DT the) (NNP U.S.)))
+        (PP (IN under) (NP (DT the) (NN quota) (NN program)))))))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 23: The U.S. had about an extra 2  %  of the domestic steel  market  to give to foreign suppliers in its quota talks .
+Penn Treebank for Sentence 23:
+
+((S (NP (DT The) (NNP U.S.))
+  (VP (VG (VBD had))
+   (NP (NP (QP (ADVP (RB about)) (DT an) (JJ extra) (CD 2)) (NN %))
+    (PP (IN of) (NP (DT the) (JJ domestic) (NN steel) (NN market)))
+    (SBAR
+     (S
+      (VP (VG (TO to) (VB give)) (PP (IN to) (NP (JJ foreign) (NNS suppliers)))
+       (PP (IN in) (NP (PRP$ its) (NN quota) (NNS talks))))))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 24: That was essentially made up of a 1  %   increase  in the overall quota  program  and 1 % from cutting Japan 's allowance .
+Penn Treebank for Sentence 24:
+
+((S (NP (DT That))
+  (VP (VG (VBD was) (ADVP (RB essentially)) (VBN made)) (ADVP (RP up))
+   (PP (IN of)
+    (NP
+     (NP (NP (DT a) (NP (CD 1) (NN %)) (NN increase))
+      (PP (IN in) (NP (DT the) (JJ overall) (NN quota) (NN program))))
+     (CC and)
+     (NP (NP (CD 1) (NN %))
+      (PP (IN from)
+       (S
+        (VP (VG (VBG cutting))
+         (NP (NP (NNP Japan) (POS |'s|)) (NN allowance)))))))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 25: Negotiators from the White House trade office will repeat these quota negotiations next year when they will have another 1  %  of the U.S. steel  market  to allocate .
+Penn Treebank for Sentence 25:
+
+((S
+  (NP (NP (NNS Negotiators))
+   (PP (IN from)
+    (NP (DT the) (NP (NNP White) (NNP House)) (NN trade) (NN office))))
+  (VP (VG (MD will) (VB repeat)) (NP (DT these) (NN quota) (NNS negotiations))
+   (NP (NP (IN next) (NN year))
+    (SBAR (WHADVP (IN when))
+     (S (NP (PRP they))
+      (VP (VG (MD will) (VB have))
+       (NP (NP (DT another) (CD 1) (NN %))
+        (PP (IN of) (NP (DT the) (NNP U.S.) (NN steel) (NN market)))
+        (SBAR (S (VP (VG (TO to) (VB allocate)))))))))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 26: In recent years , U.S. steelmakers have supplied about 80  %  of the 100 million  tons  of steel used annually by the nation .
+Penn Treebank for Sentence 26:
+
+((S (PP (IN In) (NP (ADJP (JJ recent)) (NNS years))) (|,| |,|)
+  (NP (NNP U.S.) (NNS steelmakers))
+  (VP (VG (VBP have) (VBN supplied))
+   (NP (NP (QP (ADVP (RB about)) (CD |80|)) (NN %))
+    (PP (IN of)
+     (NP (NP (DT the) (NP (CD |100|) (CD million)) (NNS tons))
+      (PP (IN of) (NP (NN steel)))
+      (S
+       (VP (VG (VBN used)) (ADVP (RB annually))
+        (PP (IN by) (NP (DT the) (NN nation)))))))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 27: Britain 's retail price  index  rose 0.7 % in September from August and was up 7.6  %  for the year , the Central Statistical Office said .
+Penn Treebank for Sentence 27:
+
+((S
+  (S (NP (NP (NNP Britain) (POS |'s|)) (JJ retail) (NN price) (NN index))
+   (VP
+    (VP (VG (VBD rose)) (NP (CD |0.7|) (NN %))
+     (PP (IN in) (NP (NNP September))) (PP (IN from) (NP (NNP August))))
+    (CC and)
+    (VP (VG (VBD was)) (PP (IN up) (NP (CD |7.6|) (NN %)))
+     (PP (IN for) (NP (DT the) (NN year))))))
+  (|,| |,|) (NP (DT the) (NP (NNP Central) (NNP Statistical) (NNP Office)))
+  (VP (VG (VBD said))) (|.| |.|)))
+
+Nombank Tags for Sentence 28: Britain 's retail price  index   rose  0.7  %  in September from August and was up 7.6 % for the year , the Central Statistical Office said .
+Penn Treebank for Sentence 28:
+
+((S
+  (S (NP (NP (NNP Britain) (POS |'s|)) (JJ retail) (NN price) (NN index))
+   (VP
+    (VP (VG (VBD rose)) (NP (CD |0.7|) (NN %))
+     (PP (IN in) (NP (NNP September))) (PP (IN from) (NP (NNP August))))
+    (CC and)
+    (VP (VG (VBD was)) (PP (IN up) (NP (CD |7.6|) (NN %)))
+     (PP (IN for) (NP (DT the) (NN year))))))
+  (|,| |,|) (NP (DT the) (NP (NNP Central) (NNP Statistical) (NNP Office)))
+  (VP (VG (VBD said))) (|.| |.|)))
+
+Nombank Tags for Sentence 29: The rights allow shareholders to purchase Quest stock at a discount if any person or group acquires more than 15  %  of the company 's common  stock  or announces a tender offer .
+Penn Treebank for Sentence 29:
+
+((S (NP (DT The) (NNS rights))
+  (VP (VG (VBP allow))
+   (S
+    (S (NP (NNS shareholders))
+     (VP (VG (PX (TO to)) (VB purchase)) (NP (NNP Quest) (NN stock))
+      (PP (IN at) (NP (DT a) (NN discount)))))
+    (SBAR (PX (IN if))
+     (S (NP (DT any) (NX (NN person) (CC or) (NN group)))
+      (VP
+       (VP (VG (VBZ acquires))
+        (NP (NP (QP (QP (ADVP (RBR more)) (IN than)) (QP (CD |15|))) (NN %))
+         (PP (IN of)
+          (NP (NP (DT the) (NN company) (POS |'s|)) (ADJP (JJ common))
+           (NN stock)))))
+       (CC or)
+       (VP (VG (VBZ announces)) (NP (DT a) (NN tender) (NN offer))))))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 30: To be sure , Kao would n't have an easy time taking U.S. market share away from the mighty P&G , which has about 23  %  of the  market  .
+Penn Treebank for Sentence 30:
+
+((S (S (VP (VG (TO To) (VB be)) (ADJP (JJ sure)))) (|,| |,|) (NP (NNP Kao))
+  (VP (VG (MD would) (ADVP (RB |n't|)) (VB have))
+   (NP (NP (DT an) (JJ easy) (NN time))
+    (S
+     (VP (VG (VBG taking)) (NP (NNP U.S.) (NN market) (NN share))
+      (PP (RB away)
+       (PP (IN from)
+        (NP (NP (DT the) (JJ mighty) (NNP P&G)) (|,| |,|)
+         (SBAR (WHNP (WDT which))
+          (S
+           (VP (VG (VBZ has))
+            (NP (NP (QP (ADVP (RB about)) (CD |23|)) (NN %))
+             (PP (IN of) (NP (DT the) (NN market))))))))))))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 31: The Cincinnati consumer-products giant got clobbered two years ago in Japan when Kao introduced a powerful detergent , called Attack , which quickly won a 30  %   stake  in the Japanese  markets  .
+Penn Treebank for Sentence 31:
+
+((S
+  (S (NP (DT The) (NNP Cincinnati) (NNS consumer-products) (NN giant))
+   (VP (VG (VBD got) (VBN clobbered)) (ADVP (NP (CD two) (NNS years)) (RB ago))
+    (PP (IN in) (NP (NNP Japan)))))
+  (SBAR (WHADVP (IN when))
+   (S (NP (NNP Kao))
+    (VP (VG (VBD introduced))
+     (NP (NP (DT a) (JJ powerful) (NN detergent)) (|,| |,|)
+      (S (VP (VG (VBN called)) (S (NP (NNP Attack))))) (|,| |,|)
+      (SBAR (WHNP (WDT which))
+       (S
+        (VP (ADVP (RB quickly)) (VG (VBD won))
+         (NP (NP (DT a) (NP (CD |30|) (NN %)) (NN stake))
+          (PP (IN in) (NP (DT the) (JJ Japanese) (NNS markets)))))))))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 32: The U.S.  share  of the Japanese market has been  stuck   around  10  %  for years .
+Penn Treebank for Sentence 32:
+
+((S
+  (NP (NP (DT The) (NNP U.S.) (NN share))
+   (PP (IN of) (NP (DT the) (JJ Japanese) (NN market))))
+  (VP (VG (VBZ has) (VBN been) (VBN stuck))
+   (PP (IN around) (NP (CD |10|) (NN %))) (PP (IN for) (NP (NNS years))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 33: Going into the fourth quarter , natural gas  prices  are anywhere from 8  %  to 17 %  lower  than a year earlier .
+Penn Treebank for Sentence 33:
+
+((S
+  (S
+   (VP (VG (VBG Going)) (PP (IN into) (NP (DT the) (JJ fourth) (NN quarter)))))
+  (|,| |,|) (NP (JJ natural) (NN gas) (NNS prices))
+  (VP (VG (VBP are))
+   (ADJP
+    (ADJP
+     (NP (NN anywhere) (IN from) (NP (CD 8) (NN %)) (TO to)
+      (NP (CD |17|) (NN %)))
+     (JJR lower))
+    (PP (IN than) (ADVP (NP (DT a) (NN year)) (RBR earlier)))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 34: Going into the fourth quarter , natural gas  prices  are anywhere from 8 % to 17  %   lower  than a year earlier .
+Penn Treebank for Sentence 34:
+
+((S
+  (S
+   (VP (VG (VBG Going)) (PP (IN into) (NP (DT the) (JJ fourth) (NN quarter)))))
+  (|,| |,|) (NP (JJ natural) (NN gas) (NNS prices))
+  (VP (VG (VBP are))
+   (ADJP
+    (ADJP
+     (NP (NN anywhere) (IN from) (NP (CD 8) (NN %)) (TO to)
+      (NP (CD |17|) (NN %)))
+     (JJR lower))
+    (PP (IN than) (ADVP (NP (DT a) (NN year)) (RBR earlier)))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 35: For instance , natural  gas  currently produced along the Gulf Coast is selling on the spot market for around $ 1.47 a thousand cubic feet , down 13  %  from $ 1.69 a thousand cubic feet a year ago .
+Penn Treebank for Sentence 35:
+
+((S (PP (PX (IN For)) (NP (NX (NN instance)))) (|,| |,|)
+  (NP (NP (JJ natural) (NN gas))
+   (S
+    (VP (ADVP (RB currently)) (VG (VBN produced))
+     (PP (IN along) (NP (DT the) (NP (NNP Gulf) (NNP Coast)))))))
+  (VP (VG (VBZ is) (VBG selling))
+   (PP (IN on) (NP (DT the) (NN spot) (NN market)))
+   (PP (IN for)
+    (NP (NP (QP (IN around) (NP ($ $)) (CD |1.47|)))
+     (NP (QP (DT a) (CD thousand)) (JJ cubic) (NNS feet))))
+   (|,| |,|)
+   (PP (IN down) (NP (CD |13|) (NN %))
+    (PP (IN from)
+     (NP (NP (QP (NP ($ $)) (CD |1.69|)))
+      (NP (QP (DT a) (CD thousand)) (JJ cubic) (NNS feet)))
+     (ADVP (NP (DT a) (NN year)) (RB ago)))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 36:  It  has  plunged  13  %  since July to around 26 cents a pound .
+Penn Treebank for Sentence 36:
+
+((S (NP (PRP It))
+  (VP (VG (VBZ has) (VBN plunged)) (NP (CD |13|) (NN %))
+   (PP (IN since) (NP (NNP July)))
+   (PP (IN to)
+    (NP (NP (QP (IN around) (CD |26|)) (NNS cents)) (NP (DT a) (NN pound)))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 37: Financial Corp. purchased the bonds , the suit alleged , after Mr. Boesky and Drexel negotiated an agreement for Vagabond Hotels to purchase a 51  %   stake  in the  thrift  for about $ 34 million .
+Penn Treebank for Sentence 37:
+
+((S
+  (S (NP (NNP Financial) (NNP Corp.))
+   (VP (VG (VBD purchased)) (NP (DT the) (NNS bonds)) (|,| |,|)
+    (SBAR (S (NP (DT the) (NN suit)) (VP (VG (VBD alleged))))) (|,| |,|)))
+  (SBAR (PX (IN after))
+   (S (NP (NP (NNP Mr.) (NNP Boesky)) (CC and) (NP (NNP Drexel)))
+    (VP (VG (VBD negotiated))
+     (NP (DT an) (NP (NN agreement))
+      (SBAR (IN for)
+       (S (NP (NNP Vagabond) (NNP Hotels))
+        (VP (VG (TO to) (VB purchase))
+         (NP (NP (DT a) (NP (CD |51|) (NN %)) (NN stake))
+          (PP (IN in) (NP (DT the) (NN thrift))))
+         (PP (IN for)
+          (NP
+           (QP (ADVP (RB about)) (NP ($ $))
+            (NP (CD |34|) (CD million))))))))))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 38: Shortly before the visit , Mr. Boesky and Drexel representives had met with Financial Corp. officials and had signed a letter of intent to acquire the 51  %   stake  in the  company  .
+Penn Treebank for Sentence 38:
+
+((S (PP (ADVP (RB Shortly)) (IN before) (NP (DT the) (NN visit))) (|,| |,|)
+  (NP (NP (NNP Mr.) (NNP Boesky)) (CC and)
+   (NP (NNP Drexel) (NNS representives)))
+  (VP
+   (VP (VG (VBD had) (VBN met))
+    (PP (IN with) (NP (NP (NNP Financial) (NNP Corp.)) (NNS officials))))
+   (CC and)
+   (VP (VG (VBD had) (VBN signed))
+    (NP (NP (DT a) (NN letter))
+     (PP (IN of)
+      (NP (NN intent)
+       (S
+        (VP (VG (TO to) (VB acquire))
+         (NP (NP (DT the) (NP (CD |51|) (NN %)) (NN stake))
+          (PP (IN in) (NP (DT the) (NN company)))))))))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 39: Ideal Basic Industries Inc. said its directors reached an agreement in principle calling for HOFI North America Inc. to combine its North American cement holdings with Ideal in a transaction that will leave Ideal 's minority shareholders with 12.8  %  of the combined  company  .
+Penn Treebank for Sentence 39:
+
+((S (NP (NNP Ideal) (NNP Basic) (NNP Industries) (NNP Inc.))
+  (VP (VG (VBD said))
+   (SBAR
+    (S (NP (PRP$ its) (NNS directors))
+     (VP (VG (VBD reached))
+      (NP (NP (DT an) (NN agreement)) (PP (IN in) (NP (NN principle)))
+       (S
+        (VP (VG (VBG calling))
+         (SBAR (IN for)
+          (S (NP (NNP HOFI) (NNP North) (NNP America) (NNP Inc.))
+           (VP (VG (TO to) (VB combine))
+            (NP (PRP$ its) (ADJP (RB North) (JJ American)) (NN cement)
+             (NNS holdings))
+            (PP (IN with) (NP (NNP Ideal)))
+            (PP (IN in)
+             (NP (NP (DT a) (NN transaction))
+              (SBAR (WHNP (WDT that))
+               (S
+                (VP (VG (MD will) (VB leave))
+                 (NP (NP (NNP Ideal) (POS |'s|)) (NN minority)
+                  (NNS shareholders))
+                 (PP (IN with)
+                  (NP (NP (CD |12.8|) (NN %))
+                   (PP (IN of)
+                    (NP (DT the) (S (VP (VG (VBN combined))))
+                     (NX (NN company)))))))))))))))))))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 40: HOFI , the North American holding company of Swiss concern Holderbank Financiere Glaris Ltd. , previously proposed combining its 100  %   stake  in St. Lawrence  Cement  Inc. and its 60 % stake in Dundee Cement Co. with its 67 % stake in Ideal .
+Penn Treebank for Sentence 40:
+
+((S
+  (NP (NP (NNP HOFI)) (|,| |,|)
+   (NP (NP (DT the) (ADJP (RB North) (JJ American)) (NN holding) (NN company))
+    (PP (IN of)
+     (NP (NP (JJ Swiss) (NN concern))
+      (NP (NNP Holderbank) (NNP Financiere) (NNP Glaris) (NNP Ltd.))))))
+  (|,| |,|) (ADVP (ADVX (RB previously)))
+  (VP (VG (VBD proposed))
+   (S
+    (VP (VG (VBG combining))
+     (NP
+      (NP (NP (PRP$ its) (NP (CD |100|) (NN %)) (NN stake))
+       (PP (IN in) (NP (NNP St.) (NNP Lawrence) (NNP Cement) (NNP Inc.))))
+      (CC and)
+      (NP (NP (PRP$ its) (NP (CD |60|) (NN %)) (NN stake))
+       (PP (IN in) (NP (NNP Dundee) (NNP Cement) (NNP Co.)))))
+     (PP (IN with)
+      (NP (NP (PRP$ its) (NP (CD |67|) (NN %)) (NN stake))
+       (PP (IN in) (NP (NN Ideal))))))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 41: HOFI , the North American holding company of Swiss concern Holderbank Financiere Glaris Ltd. , previously proposed combining its 100 % stake in St. Lawrence Cement Inc. and its 60  %   stake  in Dundee  Cement  Co. with its 67 % stake in Ideal .
+Penn Treebank for Sentence 41:
+
+((S
+  (NP (NP (NNP HOFI)) (|,| |,|)
+   (NP (NP (DT the) (ADJP (RB North) (JJ American)) (NN holding) (NN company))
+    (PP (IN of)
+     (NP (NP (JJ Swiss) (NN concern))
+      (NP (NNP Holderbank) (NNP Financiere) (NNP Glaris) (NNP Ltd.))))))
+  (|,| |,|) (ADVP (ADVX (RB previously)))
+  (VP (VG (VBD proposed))
+   (S
+    (VP (VG (VBG combining))
+     (NP
+      (NP (NP (PRP$ its) (NP (CD |100|) (NN %)) (NN stake))
+       (PP (IN in) (NP (NNP St.) (NNP Lawrence) (NNP Cement) (NNP Inc.))))
+      (CC and)
+      (NP (NP (PRP$ its) (NP (CD |60|) (NN %)) (NN stake))
+       (PP (IN in) (NP (NNP Dundee) (NNP Cement) (NNP Co.)))))
+     (PP (IN with)
+      (NP (NP (PRP$ its) (NP (CD |67|) (NN %)) (NN stake))
+       (PP (IN in) (NP (NN Ideal))))))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 42: HOFI , the North American holding company of Swiss concern Holderbank Financiere Glaris Ltd. , previously proposed combining its 100 % stake in St. Lawrence Cement Inc. and its 60 % stake in Dundee Cement Co. with its 67  %   stake  in  Ideal  .
+Penn Treebank for Sentence 42:
+
+((S
+  (NP (NP (NNP HOFI)) (|,| |,|)
+   (NP (NP (DT the) (ADJP (RB North) (JJ American)) (NN holding) (NN company))
+    (PP (IN of)
+     (NP (NP (JJ Swiss) (NN concern))
+      (NP (NNP Holderbank) (NNP Financiere) (NNP Glaris) (NNP Ltd.))))))
+  (|,| |,|) (ADVP (ADVX (RB previously)))
+  (VP (VG (VBD proposed))
+   (S
+    (VP (VG (VBG combining))
+     (NP
+      (NP (NP (PRP$ its) (NP (CD |100|) (NN %)) (NN stake))
+       (PP (IN in) (NP (NNP St.) (NNP Lawrence) (NNP Cement) (NNP Inc.))))
+      (CC and)
+      (NP (NP (PRP$ its) (NP (CD |60|) (NN %)) (NN stake))
+       (PP (IN in) (NP (NNP Dundee) (NNP Cement) (NNP Co.)))))
+     (PP (IN with)
+      (NP (NP (PRP$ its) (NP (CD |67|) (NN %)) (NN stake))
+       (PP (IN in) (NP (NN Ideal))))))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 43: But HOFI 's first offer would have given Ideal 's other shareholders about 10  %  of the combined  company  .
+Penn Treebank for Sentence 43:
+
+((SBAR (CONJP (CC But))
+  (S (NP (NP (NNP HOFI) (POS |'s|)) (JJ first) (NN offer))
+   (VP (VG (MD would) (VB have) (VBN given))
+    (NP (NP (NNP Ideal) (POS |'s|)) (JJ other) (NNS shareholders))
+    (NP (NP (QP (ADVP (RB about)) (CD |10|)) (NN %))
+     (PP (IN of)
+      (NP (DT the) (S (VP (VG (VBN combined)))) (NX (NN company))))))
+   (|.| |.|))))
+
+Nombank Tags for Sentence 44: Under the agreement , HOFI will own 87.2  %  of the combined  company  .
+Penn Treebank for Sentence 44:
+
+((S (PP (IN Under) (NP (DT the) (NN agreement))) (|,| |,|) (NP (NNP HOFI))
+  (VP (VG (MD will) (VB own))
+   (NP (NP (CD |87.2|) (NN %))
+    (PP (IN of) (NP (DT the) (S (VP (VG (VBN combined)))) (NX (NN company))))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 45: Ideal 's current operations will represent about 39.2  %  of the combined  company  .
+Penn Treebank for Sentence 45:
+
+((S (NP (NP (NNP Ideal) (POS |'s|)) (ADJP (JJ current)) (NNS operations))
+  (VP (VG (MD will) (VB represent))
+   (NP (NP (QP (ADVP (RB about)) (CD |39.2|)) (NN %))
+    (PP (IN of) (NP (DT the) (S (VP (VG (VBN combined)))) (NX (NN company))))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 46: For example , in the Oklahoma panhandle , 40  %  or more of the  topsoil  is short of moisture .
+Penn Treebank for Sentence 46:
+
+((S (PP (PX (IN For)) (NP (NX (NN example)))) (|,| |,|)
+  (PP (IN in) (NP (DT the) (NNP Oklahoma) (NN panhandle))) (|,| |,|)
+  (NP (NP (NP (CD |40|) (NN %)) (CC or) (JJR more))
+   (PP (IN of) (NP (DT the) (NN topsoil))))
+  (VP (VG (VBZ is)) (ADJP (JJ short) (PP (IN of) (NP (NN moisture)))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 47: Bozell  Cheil  Corp. , as the new agency will be called , will be based in Seoul and is 70  %   owned  by Samsung and 30 % owned by Bozell .
+Penn Treebank for Sentence 47:
+
+((S
+  (NP (NP (NNP Bozell) (NNP Cheil) (NNP Corp.)) (|,| |,|)
+   (SBAR (IN as)
+    (S (NP (DT the) (ADJP (JJ new)) (NN agency))
+     (VP (VG (MD will) (VB be) (VBN called))))))
+  (|,| |,|)
+  (VP (VP (VG (MD will) (VB be) (VBN based)) (PP (IN in) (NP (NNP Seoul))))
+   (CC and)
+   (VP
+    (VP (VG (AUXP (VBZ is)) (NP (CD |70|) (NN %)) (VBN owned))
+     (PP (IN by) (NP (NNP Samsung))))
+    (CC and)
+    (VP (VG (NP (CD |30|) (NN %)) (VBN owned))
+     (PP (IN by) (NP (NNP Bozell))))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 48: Bozell  Cheil  Corp. , as the new agency will be called , will be based in Seoul and is 70 % owned by Samsung and 30  %   owned  by Bozell .
+Penn Treebank for Sentence 48:
+
+((S
+  (NP (NP (NNP Bozell) (NNP Cheil) (NNP Corp.)) (|,| |,|)
+   (SBAR (IN as)
+    (S (NP (DT the) (ADJP (JJ new)) (NN agency))
+     (VP (VG (MD will) (VB be) (VBN called))))))
+  (|,| |,|)
+  (VP (VP (VG (MD will) (VB be) (VBN based)) (PP (IN in) (NP (NNP Seoul))))
+   (CC and)
+   (VP
+    (VP (VG (AUXP (VBZ is)) (NP (CD |70|) (NN %)) (VBN owned))
+     (PP (IN by) (NP (NNP Samsung))))
+    (CC and)
+    (VP (VG (NP (CD |30|) (NN %)) (VBN owned))
+     (PP (IN by) (NP (NNP Bozell))))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 49: Messrs. Malson and Seelenfreund are directors of McKesson , which has an 86  %   stake  in  PCS  .
+Penn Treebank for Sentence 49:
+
+((S (NP (NP (NNP Messrs.) (NNP Malson)) (CC and) (NNP Seelenfreund))
+  (VP (VG (VBP are))
+   (NP (NP (NNS directors))
+    (PP (IN of)
+     (NP (NP (NNP McKesson)) (|,| |,|)
+      (SBAR (WHNP (WDT which))
+       (S
+        (VP (VG (VBZ has))
+         (NP (NP (DT an) (NP (CD |86|) (NN %)) (NN stake))
+          (PP (IN in) (NP (NNP PCS)))))))))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 50: A MedChem spokesman said the products contribute about a third of MedChem 's sales and 10  %  to 20 % of its  earnings  .
+Penn Treebank for Sentence 50:
+
+((S (NP (DT A) (NNP MedChem) (NN spokesman))
+  (VP (VG (VBD said))
+   (SBAR
+    (S (NP (DT the) (NNS products))
+     (VP (VG (VBP contribute))
+      (NP
+       (NP (NP (QP (ADVP (RB about)) (DT a)) (NN third))
+        (PP (IN of) (NP (NP (NNP MedChem) (POS |'s|)) (NNS sales))))
+       (CC and)
+       (NP (NP (NP (CD |10|) (NN %)) (TO to) (NP (CD |20|) (NN %)))
+        (PP (IN of) (NP (PRP$ its) (NNS earnings)))))))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 51: A MedChem spokesman said the products contribute about a third of MedChem 's sales and 10 % to 20  %  of its  earnings  .
+Penn Treebank for Sentence 51:
+
+((S (NP (DT A) (NNP MedChem) (NN spokesman))
+  (VP (VG (VBD said))
+   (SBAR
+    (S (NP (DT the) (NNS products))
+     (VP (VG (VBP contribute))
+      (NP
+       (NP (NP (QP (ADVP (RB about)) (DT a)) (NN third))
+        (PP (IN of) (NP (NP (NNP MedChem) (POS |'s|)) (NNS sales))))
+       (CC and)
+       (NP (NP (NP (CD |10|) (NN %)) (TO to) (NP (CD |20|) (NN %)))
+        (PP (IN of) (NP (PRP$ its) (NNS earnings)))))))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 52: At USA Today , ad  pages  totaled 785 for the quarter , down 9.2  %  from the 1988 period , which was helped by increased ad spending from the Summer Olympics .
+Penn Treebank for Sentence 52:
+
+((S (PP (IN At) (NP (NNP USA) (NNP Today))) (|,| |,|) (NP (NN ad) (NNS pages))
+  (VP (VG (VBD totaled)) (NP (CD |785|))
+   (PP (IN for) (NP (DT the) (NN quarter))) (|,| |,|)
+   (PP (IN down) (NP (CD |9.2|) (NN %))
+    (PP (IN from)
+     (NP (NP (DT the) (CD |1988|) (NN period)) (|,| |,|)
+      (SBAR (WHNP (WDT which))
+       (S
+        (VP (VG (VBD was) (VBN helped))
+         (PP (IN by)
+          (NP (NP (S (VP (VG (VBN increased)))) (NN ad) (NX (NN spending)))
+           (PP (IN from)
+            (NP (DT the) (NP (NNP Summer) (NNPS Olympics)))))))))))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 53: While USA Today 's total paid ad pages for the year to date totaled 2,735 , a decrease of 4 % from last year , the paper 's ad  revenue   increased  8  %  in the quarter and 13 % in the nine months .
+Penn Treebank for Sentence 53:
+
+((S
+  (SBAR (PX (IN While))
+   (S
+    (NP
+     (NP (NP (NP (NNP USA) (NNP Today)) (POS |'s|)) (JJ total)
+      (S (VP (VG (VBN paid)))) (NN ad) (NX (NNS pages)))
+     (PP (IN for) (NP (NP (DT the) (NN year)) (PP (IN to) (NP (NN date))))))
+    (VP (VG (VBD totaled))
+     (NP (NP (CD |2,735|)) (|,| |,|)
+      (NP (NP (DT a) (NN decrease)) (PP (IN of) (NP (CD 4) (NN %)))
+       (PP (IN from) (NP (ADJP (JJ last)) (NN year))))))))
+  (S (|,| |,|) (NP (NP (DT the) (NN paper) (POS |'s|)) (NN ad) (NN revenue))
+   (VP
+    (VP (VG (VBD increased)) (NP (CD 8) (NN %))
+     (PP (IN in) (NP (DT the) (NN quarter))))
+    (CC and)
+    (VP (NP (CD |13|) (NN %))
+     (PP (IN in) (NP (DT the) (CD nine) (NNS months)))))
+   (|.| |.|))))
+
+Nombank Tags for Sentence 54: While USA Today 's total paid ad pages for the year to date totaled 2,735 , a decrease of 4 % from last year , the paper 's ad  revenue   increased  8 % in the quarter and 13  %  in the nine months .
+Penn Treebank for Sentence 54:
+
+((S
+  (SBAR (PX (IN While))
+   (S
+    (NP
+     (NP (NP (NP (NNP USA) (NNP Today)) (POS |'s|)) (JJ total)
+      (S (VP (VG (VBN paid)))) (NN ad) (NX (NNS pages)))
+     (PP (IN for) (NP (NP (DT the) (NN year)) (PP (IN to) (NP (NN date))))))
+    (VP (VG (VBD totaled))
+     (NP (NP (CD |2,735|)) (|,| |,|)
+      (NP (NP (DT a) (NN decrease)) (PP (IN of) (NP (CD 4) (NN %)))
+       (PP (IN from) (NP (ADJP (JJ last)) (NN year))))))))
+  (S (|,| |,|) (NP (NP (DT the) (NN paper) (POS |'s|)) (NN ad) (NN revenue))
+   (VP
+    (VP (VG (VBD increased)) (NP (CD 8) (NN %))
+     (PP (IN in) (NP (DT the) (NN quarter))))
+    (CC and)
+    (VP (NP (CD |13|) (NN %))
+     (PP (IN in) (NP (DT the) (CD nine) (NNS months)))))
+   (|.| |.|))))
+
+Nombank Tags for Sentence 55: In the nine months , Gannett 's  net   rose  9.5  %  to $ 270 million , or $ 1.68 a share , from $ 247 million , or $ 1.52 a share .
+Penn Treebank for Sentence 55:
+
+((S (PP (IN In) (NP (DT the) (CD nine) (NNS months))) (|,| |,|)
+  (NP (NP (NNP Gannett) (POS |'s|)) (NN net))
+  (VP (VG (VBD rose)) (NP (CD |9.5|) (NN %))
+   (PP (IN to)
+    (NP (NP (QP (NP ($ $)) (NP (CD |270|) (CD million)))) (|,| |,|) (CC or)
+     (NP (NP (QP (NP ($ $)) (CD |1.68|))) (NP (DT a) (NN share)))))
+   (|,| |,|)
+   (PP (IN from)
+    (NP (NP (QP (NP ($ $)) (NP (CD |247|) (CD million)))) (|,| |,|) (CC or)
+     (NP (NP (QP (NP ($ $)) (CD |1.52|))) (NP (DT a) (NN share))))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 56:  Revenue   gained  6  %  to $ 2.55 billion from $ 2.4 billion .
+Penn Treebank for Sentence 56:
+
+((S (NP (NN Revenue))
+  (VP (VG (VBD gained)) (NP (CD 6) (NN %))
+   (PP (IN to) (NP (QP (NP ($ $)) (NP (CD |2.55|) (CD billion)))))
+   (PP (IN from) (NP (QP (NP ($ $)) (NP (CD |2.4|) (CD billion))))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 57: At Dow Jones & Co. , third-quarter net  income   fell  9.9  %  from the year-earlier period .
+Penn Treebank for Sentence 57:
+
+((S (PP (IN At) (NP (NNP Dow) (NNP Jones) (NNP &) (NNP Co.))) (|,| |,|)
+  (NP (NN third-quarter) (NN net) (NN income))
+  (VP (VG (VBD fell)) (NP (CD |9.9|) (NN %))
+   (PP (IN from) (NP (DT the) (JJ year-earlier) (NN period))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 58: Ad  linage  at the Journal  fell  6.1  %  in the third quarter .
+Penn Treebank for Sentence 58:
+
+((S (NP (NP (NN Ad) (NN linage)) (PP (IN at) (NP (DT the) (NNP Journal))))
+  (VP (VG (VBD fell)) (NP (CD |6.1|) (NN %))
+   (PP (IN in) (NP (DT the) (JJ third) (NN quarter))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 59: After a supply crunch caused  prices  to  rise  14  %  since 1986 to $ 650 a metric ton , analysts are encouraged , because they do n't expect a price increase for the rest of this year .
+Penn Treebank for Sentence 59:
+
+((S
+  (S
+   (SBAR (PX (IN After))
+    (S (NP (DT a) (NN supply) (NN crunch))
+     (VP (VG (VBD caused))
+      (S (NP (NNS prices))
+       (VP (VG (TO to) (VB rise)) (NP (CD |14|) (NN %))
+        (PP (IN since) (NP (CD |1986|)))
+        (PP (IN to)
+         (NP (NP (QP (NP ($ $)) (CD |650|)))
+          (NP (DT a) (JJ metric) (NN ton)))))))))
+   (S (|,| |,|) (NP (NNS analysts))
+    (VP (VG (VG (VBP are)) (VBN encouraged)) (|,| |,|))))
+  (SBAR (PX (IN because))
+   (S (NP (PRP they))
+    (VP (VG (VBP do) (ADVP (RB |n't|)) (VB expect))
+     (NP (DT a) (NN price) (NN increase))
+     (PP (IN for)
+      (NP (NP (DT the) (NN rest)) (PP (IN of) (NP (DT this) (NN year))))))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 60: For instance , Gannett Co. posted an 11  %   gain  in net  income  , as total ad pages dropped at USA Today , but advertising revenue rose because of a higher circulation rate base and increased rates .
+Penn Treebank for Sentence 60:
+
+((S (PP (PX (IN For)) (NP (NX (NN instance)))) (|,| |,|)
+  (NP (NNP Gannett) (NNP Co.))
+  (VP (VG (VBD posted))
+   (NP (NP (DT an) (NP (CD |11|) (NN %)) (NN gain))
+    (PP (IN in) (NP (JJ net) (NN income))))
+   (|,| |,|)
+   (SBAR (PX (IN as))
+    (S
+     (S (NP (JJ total) (NN ad) (NNS pages))
+      (VP (VG (VBD dropped)) (PP (IN at) (NP (NNP USA) (NNP Today)))))
+     (|,| |,|) (CONJP (CC but))
+     (S (NP (NN advertising) (NN revenue))
+      (VP (VG (VBD rose))
+       (PP
+        (PP (IN because) (IN of)
+         (NP (NP (DT a) (JJR higher) (NN circulation) (NN rate) (NN base))
+          (CC and) (NP (S (VP (VG (VBN increased)))) (NX (NNS rates)))))))))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 61: Gannett 's 83 daily and 35 non-daily newspapers reported a 3  %   increase  in advertising and circulation  revenue  .
+Penn Treebank for Sentence 61:
+
+((S
+  (NP (NP (NNP Gannett) (POS |'s|))
+   (NX (NX (CD |83|) (ADJP (JJ daily))) (CC and) (NX (CD |35|) (JJ non-daily))
+    (NX (NNS newspapers))))
+  (VP (VG (VBD reported))
+   (NP (NP (DT a) (NP (CD 3) (NN %)) (NN increase))
+    (PP (IN in)
+     (NP (NX (NN advertising) (CC and) (NN circulation)) (NN revenue)))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 62: The company , currently using about 80 % of its North American vehicle capacity , has vowed it will run at 100  %  of  capacity  by 1992 .
+Penn Treebank for Sentence 62:
+
+((S (NP (DT The) (NN company)) (|,| |,|)
+  (S (ADVP (RB currently))
+   (VP (VG (VBG using))
+    (NP (NP (QP (ADVP (RB about)) (CD |80|)) (NN %))
+     (PP (IN of)
+      (NP (PRP$ its) (ADJP (RB North) (JJ American)) (NN vehicle)
+       (NN capacity))))))
+  (|,| |,|)
+  (VP (VG (VBZ has) (VBN vowed))
+   (SBAR
+    (S (NP (PRP it))
+     (VP (VG (MD will) (VB run))
+      (PP (IN at) (NP (NP (CD |100|) (NN %)) (PP (IN of) (NP (NN capacity)))))
+      (PP (IN by) (NP (CD |1992|)))))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 63: The company , currently using about 80  %  of its North American vehicle  capacity  , has vowed it will run at 100 % of capacity by 1992 .
+Penn Treebank for Sentence 63:
+
+((S (NP (DT The) (NN company)) (|,| |,|)
+  (S (ADVP (RB currently))
+   (VP (VG (VBG using))
+    (NP (NP (QP (ADVP (RB about)) (CD |80|)) (NN %))
+     (PP (IN of)
+      (NP (PRP$ its) (ADJP (RB North) (JJ American)) (NN vehicle)
+       (NN capacity))))))
+  (|,| |,|)
+  (VP (VG (VBZ has) (VBN vowed))
+   (SBAR
+    (S (NP (PRP it))
+     (VP (VG (MD will) (VB run))
+      (PP (IN at) (NP (NP (CD |100|) (NN %)) (PP (IN of) (NP (NN capacity)))))
+      (PP (IN by) (NP (CD |1992|)))))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 64: French state-owned Rhone-Poulenc S.A. holds 51  %  of  Merieux  .
+Penn Treebank for Sentence 64:
+
+((S
+  (NP (S (VP (JJ French) (VG (VBN state-owned))))
+   (NP (NNP Rhone-Poulenc) (NNP S.A.)))
+  (VP (VG (VBZ holds))
+   (NP (NP (CD |51|) (NN %)) (PP (IN of) (NP (NNP Merieux)))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 65: Mr. Sweig said he estimated that Lilly 's  earnings  for the quarter  jumped  about 20  %  , largely because of the performance of its new anti-depressant Prozac .
+Penn Treebank for Sentence 65:
+
+((S (NP (NNP Mr.) (NNP Sweig))
+  (VP (VG (VBD said))
+   (SBAR
+    (S (NP (PRP he))
+     (VP (VG (VBD estimated))
+      (SBAR (IN that)
+       (S
+        (NP (NP (NP (NNP Lilly) (POS |'s|)) (NNS earnings))
+         (PP (IN for) (NP (DT the) (NN quarter))))
+        (VP (VG (VBD jumped)) (NP (ADVP (RB about)) (CD |20|) (NN %)) (|,| |,|)
+         (PP (ADVP (RB largely))
+          (PP (IN because) (IN of)
+           (NP (NP (DT the) (NN performance))
+            (PP (IN of)
+             (NP (PRP$ its) (ADJP (JJ new)) (NN anti-depressant)
+              (NNP Prozac)))))))))))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 66: Several analysts said they expected Warner-Lambert 's  profit  also to  increase   by  more than 20  %  from $ 87.7 million , or $ 1.25 a share , it reported in the like period last year .
+Penn Treebank for Sentence 66:
+
+((S (NP (DT Several) (NNS analysts))
+  (VP (VG (VBD said))
+   (SBAR
+    (S (NP (PRP they))
+     (VP (VG (VBD expected))
+      (S (NP (NP (NNP Warner-Lambert) (POS |'s|)) (NN profit))
+       (ADVP (ADVX (RB also)))
+       (VP (VG (TO to) (VB increase))
+        (PP (IN by)
+         (NP (QP (QP (ADVP (RBR more)) (IN than)) (QP (CD |20|))) (NN %)))
+        (PP (IN from)
+         (NP
+          (NP (NP (QP (NP ($ $)) (NP (CD |87.7|) (CD million)))) (|,| |,|)
+           (CC or)
+           (NP (NP (QP (NP ($ $)) (CD |1.25|))) (NP (DT a) (NN share))))
+          (|,| |,|)
+          (SBAR
+           (S (NP (PRP it))
+            (VP (VG (VBD reported))
+             (PP (IN in)
+              (NP (NP (DT the) (JJ like) (NN period))
+               (NP (ADJP (JJ last)) (NN year)))))))))))))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 67: In Madison , N.J. , a spokesman for Schering-Plough said the company has `` no problems '' with the average estimate by a analysts that third-quarter  earnings  per share  rose   by  about 19  %  , to $ 1 .
+Penn Treebank for Sentence 67:
+
+((S (PP (IN In) (NP (NP (NNP Madison)) (|,| |,|) (NP (NNP N.J.)))) (|,| |,|)
+  (NP (NP (DT a) (NN spokesman)) (PP (IN for) (NP (NNP Schering-Plough))))
+  (VP (VG (VBD said))
+   (SBAR
+    (S (NP (DT the) (NN company))
+     (VP (VG (VBZ has))
+      (NP (|``| |``|) (NP (DT no) (NNS problems)) (|''| |''|)
+       (PP (IN with)
+        (NP (NP (DT the) (JJ average) (NN estimate))
+         (PP (IN by) (NP (DT a) (NNS analysts)))
+         (SBAR (PX (IN that))
+          (S
+           (NP (NP (NN third-quarter) (NNS earnings))
+            (PP (IN per) (NP (NN share))))
+           (VP (VG (VBD rose))
+            (PP (IN by) (NP (QP (ADVP (RB about)) (CD |19|)) (NN %))) (|,| |,|)
+            (PP (IN to) (NP (QP (NP ($ $)) (CD 1))))))))))))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 68: The company expects to achieve the 20  %   increase  in full-year  earnings  per share , as it projected in the spring , the spokesman said .
+Penn Treebank for Sentence 68:
+
+((S
+  (S (NP (DT The) (NN company))
+   (VP (VG (VBZ expects))
+    (S
+     (S
+      (VP (VG (TO to) (VB achieve))
+       (NP (NP (DT the) (NP (CD |20|) (NN %)) (NN increase))
+        (PP (IN in) (NP (NN full-year) (NNS earnings)))
+        (PP (IN per) (NP (NN share))))
+       (|,| |,|)))
+     (SBAR (IN as)
+      (S (NP (PRP it))
+       (VP (VG (VBD projected)) (PP (IN in) (NP (DT the) (NN spring)))))))))
+  (|,| |,|) (NP (DT the) (NN spokesman)) (VP (VG (VBD said))) (|.| |.|)))
+
+Nombank Tags for Sentence 69: Meanwhile , analysts said Pfizer 's recent string of lackluster quarterly performances continued , as  earnings  in the quarter were expected to  decline   by  about 5  %  .
+Penn Treebank for Sentence 69:
+
+((S (ADVP (ADVX (RB Meanwhile))) (|,| |,|) (NP (NNS analysts))
+  (VP (VG (VBD said))
+   (SBAR
+    (S
+     (S
+      (NP (NP (NP (NNP Pfizer) (POS |'s|)) (ADJP (JJ recent)) (NN string))
+       (PP (IN of)
+        (NP (JJ lackluster) (ADJP (JJ quarterly)) (NNS performances))))
+      (VP (VG (VBD continued)) (|,| |,|)))
+     (SBAR (PX (IN as))
+      (S (NP (NP (NNS earnings)) (PP (IN in) (NP (DT the) (NN quarter))))
+       (VP (VG (VBD were) (VBN expected))
+        (S
+         (VP (VG (TO to) (VB decline))
+          (PP (IN by) (NP (QP (ADVP (RB about)) (CD 5)) (NN %)))))))))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 70: Analysts said they expected Upjohn 's  profit  to be flat or  rise   by  only about 2  %  to 4 % as compared with $ 89.6 million , or 49 cents a share , it earned a year ago .
+Penn Treebank for Sentence 70:
+
+((S (NP (NNS Analysts))
+  (VP (VG (VBD said))
+   (SBAR
+    (S (NP (PRP they))
+     (VP (VG (VBD expected))
+      (S (NP (NP (NNP Upjohn) (POS |'s|)) (NN profit))
+       (VP (VP (VG (AUXP (TO to)) (VB be)) (ADJP (JJ flat))) (CC or)
+        (VP (VG (VB rise))
+         (PP (IN by)
+          (NP
+           (NP (ADVP (RB only)) (ADVP (RB about)) (NP (CD 2) (NN %)) (TO to)
+            (NP (CD 4) (NN %)))
+           (SBAR (IN as)
+            (S
+             (VP (VG (VBN compared))
+              (PP (IN with)
+               (NP
+                (NP (NP (QP (NP ($ $)) (NP (CD |89.6|) (CD million))))
+                 (|,| |,|) (CC or)
+                 (NP (NP (CD |49|) (NNS cents)) (NP (DT a) (NN share))))
+                (|,| |,|)
+                (SBAR
+                 (S (NP (PRP it))
+                  (VP (VG (VBD earned))
+                   (ADVP (NP (DT a) (NN year)) (RB ago)))))))))))))))))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 71: Analysts said they expected Upjohn 's  profit  to be flat or  rise   by  only about 2 % to 4  %  as compared with $ 89.6 million , or 49 cents a share , it earned a year ago .
+Penn Treebank for Sentence 71:
+
+((S (NP (NNS Analysts))
+  (VP (VG (VBD said))
+   (SBAR
+    (S (NP (PRP they))
+     (VP (VG (VBD expected))
+      (S (NP (NP (NNP Upjohn) (POS |'s|)) (NN profit))
+       (VP (VP (VG (AUXP (TO to)) (VB be)) (ADJP (JJ flat))) (CC or)
+        (VP (VG (VB rise))
+         (PP (IN by)
+          (NP
+           (NP (ADVP (RB only)) (ADVP (RB about)) (NP (CD 2) (NN %)) (TO to)
+            (NP (CD 4) (NN %)))
+           (SBAR (IN as)
+            (S
+             (VP (VG (VBN compared))
+              (PP (IN with)
+               (NP
+                (NP (NP (QP (NP ($ $)) (NP (CD |89.6|) (CD million))))
+                 (|,| |,|) (CC or)
+                 (NP (NP (CD |49|) (NNS cents)) (NP (DT a) (NN share))))
+                (|,| |,|)
+                (SBAR
+                 (S (NP (PRP it))
+                  (VP (VG (VBD earned))
+                   (ADVP (NP (DT a) (NN year)) (RB ago)))))))))))))))))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 72: Analysts said  profit  for the dozen or so big drug makers , as a group , is estimated to have  climbed  between 11  %  and 14 % .
+Penn Treebank for Sentence 72:
+
+((S (NP (NNS Analysts))
+  (VP (VG (VBD said))
+   (SBAR
+    (S
+     (NP (NP (NN profit))
+      (PP (IN for)
+       (NP
+        (NP (DT the) (QP (NN dozen) (CC or) (RB so)) (JJ big) (NN drug)
+         (NNS makers))
+        (|,| |,|) (SBAR (IN as) (S (NP (DT a) (NN group)))))))
+     (|,| |,|)
+     (VP (VG (VBZ is) (VBN estimated))
+      (S
+       (VP (VG (TO to) (VB have) (VBN climbed))
+        (NP (IN between)
+         (NX (NX (CD |11|) (NN %)) (CC and) (NX (CD |14|) (NN %))))))))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 73: Analysts said  profit  for the dozen or so big drug makers , as a group , is estimated to have  climbed  between 11 % and 14  %  .
+Penn Treebank for Sentence 73:
+
+((S (NP (NNS Analysts))
+  (VP (VG (VBD said))
+   (SBAR
+    (S
+     (NP (NP (NN profit))
+      (PP (IN for)
+       (NP
+        (NP (DT the) (QP (NN dozen) (CC or) (RB so)) (JJ big) (NN drug)
+         (NNS makers))
+        (|,| |,|) (SBAR (IN as) (S (NP (DT a) (NN group)))))))
+     (|,| |,|)
+     (VP (VG (VBZ is) (VBN estimated))
+      (S
+       (VP (VG (TO to) (VB have) (VBN climbed))
+        (NP (IN between)
+         (NX (NX (CD |11|) (NN %)) (CC and) (NX (CD |14|) (NN %))))))))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 74: Mr. Sweig estimated that Merck 's  profit  for the quarter  rose   by  about 22  %  , propelled by sales of its line-up of fast-growing prescription drugs , including its anti-cholesterol drug , Mevacor ; a high blood pressure medicine , Vasotec ; Primaxin , an antibiotic , and Pepcid , an anti-ulcer medication .
+Penn Treebank for Sentence 74:
+
+((S (NP (NNP Mr.) (NNP Sweig))
+  (VP (VG (VBD estimated))
+   (SBAR (IN that)
+    (S
+     (NP (NP (NP (NNP Merck) (POS |'s|)) (NN profit))
+      (PP (IN for) (NP (DT the) (NN quarter))))
+     (VP (VG (VBD rose))
+      (PP (IN by) (NP (QP (ADVP (RB about)) (CD |22|)) (NN %))) (|,| |,|)
+      (S
+       (VP (VG (VBN propelled))
+        (PP (IN by)
+         (NP (NP (NNS sales))
+          (PP (IN of)
+           (NP (NP (PRP$ its) (NN line-up))
+            (PP (IN of)
+             (NP (NP (NN fast-growing) (NN prescription) (NNS drugs)) (|,| |,|)
+              (S
+               (VP (VG (VBG including))
+                (NP
+                 (NP (NP (PRP$ its) (NN anti-cholesterol) (NN drug)) (|,| |,|)
+                  (NP (NNP Mevacor)))
+                 (|:| |;|)
+                 (NP
+                  (NP (DT a) (JJ high) (NN blood) (NN pressure) (NN medicine))
+                  (|,| |,|) (NP (NNP Vasotec)))
+                 (|:| |;|)
+                 (NP (NP (NNP Primaxin)) (|,| |,|)
+                  (NP (DT an) (NN antibiotic)))
+                 (|,| |,|) (CC and)
+                 (NP (NP (NNP Pepcid)) (|,| |,|)
+                  (NP (DT an) (NN anti-ulcer) (NN medication))))))))))))))))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 75: Amid a crowd of crashing stocks , Relational Technology Inc. 's  stock  fell particularly hard Friday ,  dropping  23  %  because its problems were compounded by disclosure of an unexpected loss for its fiscal first quarter .
+Penn Treebank for Sentence 75:
+
+((S
+  (PP (IN Amid)
+   (NP (NP (DT a) (NN crowd)) (PP (IN of) (NP (VBG crashing) (NNS stocks)))))
+  (|,| |,|)
+  (NP (NP (NP (NNP Relational) (NNP Technology) (NNP Inc.)) (POS |'s|))
+   (NN stock))
+  (VP (VG (VBD fell)) (ADVP (ADVP (RB particularly)) (RB hard))
+   (NP (NNP Friday)) (|,| |,|)
+   (S (S (VP (VG (VBG dropping)) (NP (CD |23|) (NN %))))
+    (SBAR (PX (IN because))
+     (S (NP (DETP (PRP$ its)) (NNS problems))
+      (VP (VG (VBD were) (VBN compounded))
+       (PP (IN by)
+        (NP (NP (NN disclosure))
+         (PP (IN of)
+          (NP (NP (DT an) (JJ unexpected) (NN loss))
+           (PP (IN for)
+            (NP (PRP$ its) (JJ fiscal) (JJ first) (NN quarter))))))))))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 76: But on average , Manhattan retail  rents  have  dropped  10  %  to 15 % in the past six months alone , experts say .
+Penn Treebank for Sentence 76:
+
+((S
+  (SBAR (CONJP (CC But))
+   (S (PP (IN on) (NP (NN average))) (|,| |,|)
+    (NP (NNP Manhattan) (JJ retail) (NNS rents))
+    (VP (VG (VBP have) (VBN dropped))
+     (NP (NP (CD |10|) (NN %)) (TO to) (NP (CD |15|) (NN %)))
+     (PP (IN in)
+      (NP (NP (DT the) (ADJP (JJ past)) (CD six) (NNS months))
+       (ADVP (RB alone)))))))
+  (S (|,| |,|) (NP (NNS experts)) (VP (VG (VBP say))) (|.| |.|))))
+
+Nombank Tags for Sentence 77: But on average , Manhattan retail  rents  have  dropped  10 % to 15  %  in the past six months alone , experts say .
+Penn Treebank for Sentence 77:
+
+((S
+  (SBAR (CONJP (CC But))
+   (S (PP (IN on) (NP (NN average))) (|,| |,|)
+    (NP (NNP Manhattan) (JJ retail) (NNS rents))
+    (VP (VG (VBP have) (VBN dropped))
+     (NP (NP (CD |10|) (NN %)) (TO to) (NP (CD |15|) (NN %)))
+     (PP (IN in)
+      (NP (NP (DT the) (ADJP (JJ past)) (CD six) (NNS months))
+       (ADVP (RB alone)))))))
+  (S (|,| |,|) (NP (NNS experts)) (VP (VG (VBP say))) (|.| |.|))))
+
+Nombank Tags for Sentence 78: And Time 's paid  circulation  , according to Audit Bureau of Circulations ,  dropped  7.3  %  to 4,393,237 in the six months ended June 30 , 1989 .
+Penn Treebank for Sentence 78:
+
+((SBAR (CONJP (CC And))
+  (S
+   (NP (NP (NNP Time) (POS |'s|)) (S (VP (VG (VBN paid))))
+    (NX (NN circulation)))
+   (|,| |,|)
+   (PP (VBG according)
+    (PP (IN to)
+     (NP (NP (NNP Audit) (NNP Bureau)) (PP (IN of) (NP (NNP Circulations))))))
+   (|,| |,|)
+   (VP (VG (VBD dropped)) (NP (CD |7.3|) (NN %))
+    (PP (IN to) (NP (CD |4,393,237|)))
+    (PP (IN in)
+     (NP (NP (DT the) (CD six) (NNS months))
+      (S
+       (VP (VG (VBN ended))
+        (NP (NNP June) (CD |30|) (|,| |,|) (CD |1989|)))))))
+   (|.| |.|))))
+
+Nombank Tags for Sentence 79: But 70  %  of the cable-television-equipped  households  that watch news do so between 6 : 30 p.m. and 7 p.m. , the network discovered , so CNN wants in .
+Penn Treebank for Sentence 79:
+
+((SBAR
+  (S
+   (SBAR (CONJP (CC But))
+    (S
+     (NP (NP (CD |70|) (NN %))
+      (PP (IN of)
+       (NP
+        (NP (DT the) (S (VP (VG (VBN cable-television-equipped))))
+         (NX (NNS households)))
+        (SBAR (WHNP (WDT that)) (S (VP (VG (VBP watch)) (NP (NN news))))))))
+     (VP (VG (VBP do)) (ADVP (RB so))
+      (PP (IN between)
+       (NP (NP (CD |6|) (|:| |:|) (CD |30|) (RB p.m.)) (CC and)
+        (NP (CD 7) (RB p.m.)))))))
+   (S (|,| |,|) (NP (DT the) (NN network)) (VP (VG (VBD discovered)))))
+  (|,| |,|) (PX (IN so))
+  (S (NP (NNP CNN)) (VP (VG (VBZ wants)) (ADVP (RB in)))) (|.| |.|)))
+
+Nombank Tags for Sentence 80: `` We would obviously be upset if those kinds of services evolved into more general-interest , long-format programming , '' says Robert Stengel , senior vice president , programming , of Continental Cablevision Inc. , which holds a 2  %   stake  in Turner  Broadcasting  .
+Penn Treebank for Sentence 80:
+
+((S (|``| |``|)
+  (S
+   (S (NP (PRP We))
+    (VP (VG (AUXP (MD would)) (ADVP (RB obviously)) (VG (VB be)) (VBN upset))))
+   (SBAR (PX (IN if))
+    (S (NP (NP (DT those) (NNS kinds)) (PP (IN of) (NP (NNS services))))
+     (VP (VG (VBD evolved))
+      (PP (IN into)
+       (NP (NP (DT more) (NN general-interest)) (|,| |,|) (NN long-format)
+        (NN programming)))))))
+  (|,| |,|) (|''| |''|) (VP (VG (VBZ says)))
+  (NP (NP (NNP Robert) (NNP Stengel)) (|,| |,|)
+   (NP (NP (JJ senior) (NN vice) (NN president)) (|,| |,|)
+    (NP (NN programming)))
+   (|,| |,|)
+   (PP (IN of)
+    (NP (NP (NNP Continental) (NNP Cablevision) (NNP Inc.)) (|,| |,|)
+     (SBAR (WHNP (WDT which))
+      (S
+       (VP (VG (VBZ holds))
+        (NP (NP (DT a) (NP (CD 2) (NN %)) (NN stake))
+         (PP (IN in) (NP (NNP Turner) (NNP Broadcasting))))))))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 81: After falling for three consecutive months , the producer price  index  for finished goods  shot  up 0.9  %  last month , the Labor Department reported Friday , as energy prices jumped after tumbling through the summer .
+Penn Treebank for Sentence 81:
+
+((S
+  (PP (PX (IN After))
+   (S
+    (VP (VG (VBG falling))
+     (PP (IN for) (NP (CD three) (JJ consecutive) (NNS months))))))
+  (S (|,| |,|)
+   (NP (NP (DT the) (NN producer) (NN price) (NN index))
+    (PP (IN for) (NP (S (VP (VG (VBN finished)))) (NX (NNS goods)))))
+   (VP (VG (VBD shot)) (ADVP (RB up)) (NP (CD |0.9|) (NN %))
+    (NP (ADJP (JJ last)) (NN month)) (|,| |,|)
+    (SBAR
+     (S (NP (DT the) (NP (NNP Labor) (NNP Department)))
+      (VP (VG (VBD reported)) (NP (NNP Friday)))))
+    (|,| |,|)
+    (SBAR (PX (IN as))
+     (S (S (NP (NN energy) (NNS prices)) (VP (VG (VBD jumped))))
+      (PP (PX (IN after))
+       (S
+        (VP (VG (VBG tumbling))
+         (PP (IN through) (NP (DT the) (NN summer)))))))))
+   (|.| |.|))))
+
+Nombank Tags for Sentence 82: Moreover , this year 's good inflation news may have ended last month , when energy  prices   zoomed  up 6.5  %  after plunging 7.3 % in August .
+Penn Treebank for Sentence 82:
+
+((S (ADVP (ADVX (RB Moreover))) (|,| |,|)
+  (NP (NP (DT this) (NN year) (POS |'s|)) (JJ good) (NN inflation) (NN news))
+  (VP (VG (MD may) (VB have) (VBN ended))
+   (NP (NP (ADJP (JJ last)) (NN month)) (|,| |,|)
+    (SBAR (WHADVP (IN when))
+     (S
+      (S (NP (NN energy) (NNS prices))
+       (VP (VG (VBD zoomed)) (ADVP (RB up)) (NP (CD |6.5|) (NN %))))
+      (PP (PX (IN after))
+       (S
+        (VP (VG (VBG plunging)) (NP (CD |7.3|) (NN %))
+         (PP (IN in) (NP (NNP August))))))))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 83: Moreover , this year 's good inflation news may have ended last month , when energy  prices  zoomed up 6.5 % after  plunging  7.3  %  in August .
+Penn Treebank for Sentence 83:
+
+((S (ADVP (ADVX (RB Moreover))) (|,| |,|)
+  (NP (NP (DT this) (NN year) (POS |'s|)) (JJ good) (NN inflation) (NN news))
+  (VP (VG (MD may) (VB have) (VBN ended))
+   (NP (NP (ADJP (JJ last)) (NN month)) (|,| |,|)
+    (SBAR (WHADVP (IN when))
+     (S
+      (S (NP (NN energy) (NNS prices))
+       (VP (VG (VBD zoomed)) (ADVP (RB up)) (NP (CD |6.5|) (NN %))))
+      (PP (PX (IN after))
+       (S
+        (VP (VG (VBG plunging)) (NP (CD |7.3|) (NN %))
+         (PP (IN in) (NP (NNP August))))))))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 84: Passenger car  prices  jumped 3.8 % in September , after  climbing  0.5  %  in August and declining in the late spring and summer .
+Penn Treebank for Sentence 84:
+
+((S
+  (S (NP (NN Passenger) (NN car) (NNS prices))
+   (VP (VG (VBD jumped)) (NP (CD |3.8|) (NN %))
+    (PP (IN in) (NP (NNP September))) (|,| |,|)))
+  (PP (PX (IN after))
+   (S
+    (VP
+     (VP (VG (VBG climbing)) (NP (CD |0.5|) (NN %))
+      (PP (IN in) (NP (NNP August))))
+     (CC and)
+     (VP (VG (VBG declining))
+      (PP (IN in)
+       (NP (DT the)
+        (NX (NX (ADJP (JJ late)) (NN spring)) (CC and) (NX (NN summer)))))))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 85: Passenger car  prices   jumped  3.8  %  in September , after climbing 0.5 % in August and declining in the late spring and summer .
+Penn Treebank for Sentence 85:
+
+((S
+  (S (NP (NN Passenger) (NN car) (NNS prices))
+   (VP (VG (VBD jumped)) (NP (CD |3.8|) (NN %))
+    (PP (IN in) (NP (NNP September))) (|,| |,|)))
+  (PP (PX (IN after))
+   (S
+    (VP
+     (VP (VG (VBG climbing)) (NP (CD |0.5|) (NN %))
+      (PP (IN in) (NP (NNP August))))
+     (CC and)
+     (VP (VG (VBG declining))
+      (PP (IN in)
+       (NP (DT the)
+        (NX (NX (ADJP (JJ late)) (NN spring)) (CC and) (NX (NN summer)))))))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 86: Prices for capital equipment rose a hefty 1.1 % in September , while  prices  for home electronic equipment  fell  1.1  %  .
+Penn Treebank for Sentence 86:
+
+((S
+  (S (NP (NP (NNS Prices)) (PP (IN for) (NP (NN capital) (NN equipment))))
+   (VP (VG (VBD rose)) (NP (DT a) (JJ hefty) (CD |1.1|) (NN %))
+    (PP (IN in) (NP (NNP September))) (|,| |,|)))
+  (SBAR (PX (IN while))
+   (S
+    (NP (NP (NNS prices))
+     (PP (IN for) (NP (NN home) (JJ electronic) (NN equipment))))
+    (VP (VG (VBD fell)) (NP (CD |1.1|) (NN %)))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 87:  Prices  for capital equipment  rose  a hefty 1.1  %  in September , while prices for home electronic equipment fell 1.1 % .
+Penn Treebank for Sentence 87:
+
+((S
+  (S (NP (NP (NNS Prices)) (PP (IN for) (NP (NN capital) (NN equipment))))
+   (VP (VG (VBD rose)) (NP (DT a) (JJ hefty) (CD |1.1|) (NN %))
+    (PP (IN in) (NP (NNP September))) (|,| |,|)))
+  (SBAR (PX (IN while))
+   (S
+    (NP (NP (NNS prices))
+     (PP (IN for) (NP (NN home) (JJ electronic) (NN equipment))))
+    (VP (VG (VBD fell)) (NP (CD |1.1|) (NN %)))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 88: Food  prices  declined 0.6 % , after  climbing  0.3  %  in August .
+Penn Treebank for Sentence 88:
+
+((S
+  (S (NP (NN Food) (NNS prices))
+   (VP (VG (VBD declined)) (NP (CD |0.6|) (NN %)) (|,| |,|)))
+  (PP (PX (IN after))
+   (S
+    (VP (VG (VBG climbing)) (NP (CD |0.3|) (NN %))
+     (PP (IN in) (NP (NNP August))))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 89: Food  prices   declined  0.6  %  , after climbing 0.3 % in August .
+Penn Treebank for Sentence 89:
+
+((S
+  (S (NP (NN Food) (NNS prices))
+   (VP (VG (VBD declined)) (NP (CD |0.6|) (NN %)) (|,| |,|)))
+  (PP (PX (IN after))
+   (S
+    (VP (VG (VBG climbing)) (NP (CD |0.3|) (NN %))
+     (PP (IN in) (NP (NNP August))))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 90: Meanwhile , the retail sales report showed that car  sales   rose  0.8  %  in September to $ 32.82 billion .
+Penn Treebank for Sentence 90:
+
+((S (ADVP (ADVX (RB Meanwhile))) (|,| |,|)
+  (NP (DT the) (JJ retail) (NNS sales) (NN report))
+  (VP (VG (VBD showed))
+   (SBAR (IN that)
+    (S (NP (NN car) (NNS sales))
+     (VP (VG (VBD rose)) (NP (CD |0.8|) (NN %))
+      (PP (IN in) (NP (NNP September)))
+      (PP (IN to) (NP (QP (NP ($ $)) (NP (CD |32.82|) (CD billion)))))))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 91:  Sales  at general merchandise stores rose 1.7 % after  declining  0.6  %  in August , while sales of building materials fell 1.8 % after rising 1.7 % .
+Penn Treebank for Sentence 91:
+
+((S
+  (S
+   (NP (NP (NNS Sales))
+    (PP (IN at) (NP (JJ general) (NN merchandise) (NNS stores))))
+   (VP (VG (VBD rose)) (NP (CD |1.7|) (NN %))))
+  (PP (PX (IN after))
+   (S
+    (VP (VG (VBG declining)) (NP (CD |0.6|) (NN %))
+     (PP (IN in) (NP (NNP August))))))
+  (|,| |,|)
+  (SBAR (PX (IN while))
+   (S
+    (S (NP (NP (NNS sales)) (PP (IN of) (NP (NN building) (NNS materials))))
+     (VP (VG (VBD fell)) (NP (CD |1.8|) (NN %))))
+    (PP (PX (IN after)) (S (VP (VG (VBG rising)) (NP (CD |1.7|) (NN %)))))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 92: Sales at general merchandise stores rose 1.7 % after declining 0.6 % in August , while  sales  of building materials  fell  1.8  %  after rising 1.7 % .
+Penn Treebank for Sentence 92:
+
+((S
+  (S
+   (NP (NP (NNS Sales))
+    (PP (IN at) (NP (JJ general) (NN merchandise) (NNS stores))))
+   (VP (VG (VBD rose)) (NP (CD |1.7|) (NN %))))
+  (PP (PX (IN after))
+   (S
+    (VP (VG (VBG declining)) (NP (CD |0.6|) (NN %))
+     (PP (IN in) (NP (NNP August))))))
+  (|,| |,|)
+  (SBAR (PX (IN while))
+   (S
+    (S (NP (NP (NNS sales)) (PP (IN of) (NP (NN building) (NNS materials))))
+     (VP (VG (VBD fell)) (NP (CD |1.8|) (NN %))))
+    (PP (PX (IN after)) (S (VP (VG (VBG rising)) (NP (CD |1.7|) (NN %)))))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 93: Sales at general merchandise stores rose 1.7 % after declining 0.6 % in August , while  sales  of building materials fell 1.8 % after  rising  1.7  %  .
+Penn Treebank for Sentence 93:
+
+((S
+  (S
+   (NP (NP (NNS Sales))
+    (PP (IN at) (NP (JJ general) (NN merchandise) (NNS stores))))
+   (VP (VG (VBD rose)) (NP (CD |1.7|) (NN %))))
+  (PP (PX (IN after))
+   (S
+    (VP (VG (VBG declining)) (NP (CD |0.6|) (NN %))
+     (PP (IN in) (NP (NNP August))))))
+  (|,| |,|)
+  (SBAR (PX (IN while))
+   (S
+    (S (NP (NP (NNS sales)) (PP (IN of) (NP (NN building) (NNS materials))))
+     (VP (VG (VBD fell)) (NP (CD |1.8|) (NN %))))
+    (PP (PX (IN after)) (S (VP (VG (VBG rising)) (NP (CD |1.7|) (NN %)))))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 94:  Sales  at general merchandise stores  rose  1.7  %  after declining 0.6 % in August , while sales of building materials fell 1.8 % after rising 1.7 % .
+Penn Treebank for Sentence 94:
+
+((S
+  (S
+   (NP (NP (NNS Sales))
+    (PP (IN at) (NP (JJ general) (NN merchandise) (NNS stores))))
+   (VP (VG (VBD rose)) (NP (CD |1.7|) (NN %))))
+  (PP (PX (IN after))
+   (S
+    (VP (VG (VBG declining)) (NP (CD |0.6|) (NN %))
+     (PP (IN in) (NP (NNP August))))))
+  (|,| |,|)
+  (SBAR (PX (IN while))
+   (S
+    (S (NP (NP (NNS sales)) (PP (IN of) (NP (NN building) (NNS materials))))
+     (VP (VG (VBD fell)) (NP (CD |1.8|) (NN %))))
+    (PP (PX (IN after)) (S (VP (VG (VBG rising)) (NP (CD |1.7|) (NN %)))))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 95: Producer  prices  for intermediate goods  grew  0.4  %  in September , after dropping for three consecutive months .
+Penn Treebank for Sentence 95:
+
+((S
+  (S
+   (NP (NP (NN Producer) (NNS prices))
+    (PP (IN for) (NP (JJ intermediate) (NNS goods))))
+   (VP (VG (VBD grew)) (NP (CD |0.4|) (NN %)) (PP (IN in) (NP (NNP September)))
+    (|,| |,|)))
+  (PP (PX (IN after))
+   (S
+    (VP (VG (VBG dropping))
+     (PP (IN for) (NP (CD three) (JJ consecutive) (NNS months))))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 96:  Prices  for crude goods , an array of raw materials ,  jumped  1.1  %  after declining 1.9 % in August and edging up 0.2 % in July .
+Penn Treebank for Sentence 96:
+
+((S
+  (S
+   (NP (NP (NNS Prices))
+    (PP (IN for)
+     (NP (NP (JJ crude) (NNS goods)) (|,| |,|)
+      (NP (NP (DT an) (NN array))
+       (PP (IN of) (NP (JJ raw) (NNS materials)))))))
+   (|,| |,|) (VP (VG (VBD jumped)) (NP (CD |1.1|) (NN %))))
+  (PP (PX (IN after))
+   (S
+    (VP
+     (VP (VG (VBG declining)) (NP (CD |1.9|) (NN %))
+      (PP (IN in) (NP (NNP August))))
+     (CC and)
+     (VP (VG (VBG edging)) (ADVP (RP up)) (NP (CD |0.2|) (NN %))
+      (PP (IN in) (NP (NNP July)))))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 97:  Prices  for crude goods , an array of raw materials , jumped 1.1 % after  declining  1.9  %  in August and edging up 0.2 % in July .
+Penn Treebank for Sentence 97:
+
+((S
+  (S
+   (NP (NP (NNS Prices))
+    (PP (IN for)
+     (NP (NP (JJ crude) (NNS goods)) (|,| |,|)
+      (NP (NP (DT an) (NN array))
+       (PP (IN of) (NP (JJ raw) (NNS materials)))))))
+   (|,| |,|) (VP (VG (VBD jumped)) (NP (CD |1.1|) (NN %))))
+  (PP (PX (IN after))
+   (S
+    (VP
+     (VP (VG (VBG declining)) (NP (CD |1.9|) (NN %))
+      (PP (IN in) (NP (NNP August))))
+     (CC and)
+     (VP (VG (VBG edging)) (ADVP (RP up)) (NP (CD |0.2|) (NN %))
+      (PP (IN in) (NP (NNP July)))))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 98:  Prices  for crude goods , an array of raw materials , jumped 1.1 % after declining 1.9 % in August and  edging  up 0.2  %  in July .
+Penn Treebank for Sentence 98:
+
+((S
+  (S
+   (NP (NP (NNS Prices))
+    (PP (IN for)
+     (NP (NP (JJ crude) (NNS goods)) (|,| |,|)
+      (NP (NP (DT an) (NN array))
+       (PP (IN of) (NP (JJ raw) (NNS materials)))))))
+   (|,| |,|) (VP (VG (VBD jumped)) (NP (CD |1.1|) (NN %))))
+  (PP (PX (IN after))
+   (S
+    (VP
+     (VP (VG (VBG declining)) (NP (CD |1.9|) (NN %))
+      (PP (IN in) (NP (NNP August))))
+     (CC and)
+     (VP (VG (VBG edging)) (ADVP (RP up)) (NP (CD |0.2|) (NN %))
+      (PP (IN in) (NP (NNP July)))))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 99: Further fueling the belief that pressures in the economy were sufficient to keep the Fed from easing credit , the Commerce Department reported Friday that retail  sales   grew  0.5  %  in September , to $ 145.21 billion .
+Penn Treebank for Sentence 99:
+
+((S
+  (S (ADVP (RB Further))
+   (VP (VG (VBG fueling))
+    (NP (DT the) (NP (NN belief))
+     (SBAR (PX (IN that))
+      (S (NP (NP (NNS pressures)) (PP (IN in) (NP (DT the) (NN economy))))
+       (VP (VG (VBD were))
+        (ADJP (JJ sufficient)
+         (S
+          (VP (VG (TO to) (VB keep)) (NP (DT the) (NNP Fed))
+           (PP (IN from) (S (VP (VG (VBG easing)) (NP (NN credit))))))))))))))
+  (|,| |,|) (NP (DT the) (NP (NNP Commerce) (NNP Department)))
+  (VP (VG (VBD reported)) (NP (NNP Friday))
+   (SBAR (IN that)
+    (S (NP (JJ retail) (NNS sales))
+     (VP (VG (VBD grew)) (NP (CD |0.5|) (NN %))
+      (PP (IN in) (NP (NNP September))) (|,| |,|)
+      (PP (IN to) (NP (QP (NP ($ $)) (NP (CD |145.21|) (CD billion)))))))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 100: `` The overall 0.9 % increase is serious in itself , but what is even worse is that excluding food and energy , the producer price  index  still  increased   by  0.7  %  , '' said Gordon Richards , an economist at the National Association of Manufacturers .
+Penn Treebank for Sentence 100:
+
+((S (|``| |``|)
+  (S
+   (S (NP (DT The) (JJ overall) (NP (CD |0.9|) (NN %)) (NN increase))
+    (VP (VG (VBZ is)) (ADJP (JJ serious)) (PP (IN in) (NP (PRP itself)))))
+   (|,| |,|) (CONJP (CC but))
+   (S
+    (SBAR (WHNP (WP what))
+     (S (VP (VG (VBZ is)) (ADJP (ADVP (RB even)) (ADJX (JJR worse))))))
+    (VP (VG (VBZ is))
+     (SBAR (PX (IN that))
+      (S (S (VP (VG (VBG excluding)) (NP (NN food) (CC and) (NN energy))))
+       (|,| |,|) (NP (DT the) (NN producer) (NN price) (NN index))
+       (ADVP (ADVX (RB still)))
+       (VP (VG (VBD increased)) (PP (IN by) (NP (CD |0.7|) (NN %)))))))))
+  (|,| |,|) (|''| |''|) (VP (VG (VBD said)))
+  (NP (NP (NNP Gordon) (NNP Richards)) (|,| |,|)
+   (NP (NP (DT an) (NN economist))
+    (PP (IN at)
+     (NP (NP (DT the) (NP (NNP National) (NNP Association)))
+      (PP (IN of) (NP (NNP Manufacturers)))))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 101: Approximately 85  %  of the  total  consisted of nonperforming commercial real estate assets .
+Penn Treebank for Sentence 101:
+
+((S
+  (NP (NP (QP (ADVP (RB Approximately)) (CD |85|)) (NN %))
+   (PP (IN of) (NP (DT the) (NN total))))
+  (VP (VG (VBD consisted))
+   (PP (IN of)
+    (NP (JJ nonperforming) (JJ commercial) (JJ real) (NN estate)
+     (NNS assets))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 102: It said the sale would give it positive tangible capital of $ 82 million , or about 1.2  %  of  assets  , from a negative $ 33 million as of Sept. 30 , thus bringing CenTrust close to regulatory standards .
+Penn Treebank for Sentence 102:
+
+((S (NP (PRP It))
+  (VP (VG (VBD said))
+   (SBAR
+    (S (NP (DT the) (NN sale))
+     (VP (VG (AUXP (MD would)) (VB give)) (NP (PRP it))
+      (NP (NP (JJ positive) (JJ tangible) (NN capital))
+       (PP (IN of)
+        (NP (NP (QP (NP ($ $)) (NP (CD |82|) (CD million)))) (|,| |,|) (CC or)
+         (NP (NP (QP (ADVP (RB about)) (CD |1.2|)) (NN %))
+          (PP (IN of) (NP (NNS assets)))))))
+      (|,| |,|)
+      (PP (IN from)
+       (NP (DT a) (NN negative)
+        (NP (QP (NP ($ $)) (NP (CD |33|) (CD million))))))
+      (PP (IN as) (PP (IN of) (NP (NNP Sept.) (CD |30|)))) (|,| |,|)
+      (S (ADVP (ADVX (RB thus)))
+       (VP (VG (VBG bringing)) (NP (NNP CenTrust))
+        (ADJP (JJ close)
+         (PP (IN to) (NP (JJ regulatory) (NNS standards))))))))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 103: But perhaps even more remarkable , the three-hour-show , `` Wetten Dass '' -LRB- Make a Bet -RRB- , regularly wins the top slot in the country 's TV ratings , sometimes drawing as many as 50  %  of West German  households  .
+Penn Treebank for Sentence 103:
+
+((S
+  (S (CONJP (CC But)) (ADVP (RB perhaps))
+   (ADJP (ADVP (ADVP (RB even)) (ADVX (RBR more))) (JJ remarkable)))
+  (|,| |,|)
+  (NP (NP (DT the) (NN three-hour-show)) (|,| |,|)
+   (NP (|``| |``|) (NP (NNP Wetten) (NNP Dass)) (|''| |''|)
+    (SBAR (-LRB- -LRB-) (S (VP (VG (VBP Make)) (NP (DT a) (NNP Bet))))
+     (-RRB- -RRB-))))
+  (|,| |,|)
+  (VP (ADVP (RB regularly)) (VG (VBZ wins))
+   (NP (NP (DT the) (JJ top) (NN slot))
+    (PP (IN in)
+     (NP (NP (DT the) (NN country) (POS |'s|)) (NN TV) (NNS ratings))))
+   (|,| |,|)
+   (S (ADVP (RB sometimes))
+    (VP (VG (VBG drawing))
+     (NP (NP (QP (IN as) (DT many) (IN as) (CD |50|)) (NN %))
+      (PP (IN of) (NP (ADJP (RB West) (JJ German)) (NNS households)))))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 104: The most militant opposition to American TV imports has come from French television and movie producers , who have demanded quotas ensuring that a full 60  %  of Europe 's TV  shows  be produced in Europe .
+Penn Treebank for Sentence 104:
+
+((S
+  (NP (NP (DT The) (ADJP (ADVP (RBS most)) (JJ militant)) (NN opposition))
+   (PP (IN to) (NP (JJ American) (NN TV) (NNS imports))))
+  (VP (VG (VBZ has) (VBN come))
+   (PP (IN from)
+    (NP
+     (NP (JJ French) (NX (NN television) (CC and) (NN movie)) (NNS producers))
+     (|,| |,|)
+     (SBAR (WHNP (WP who))
+      (S
+       (VP (VG (VBP have) (VBN demanded))
+        (NP (NP (NNS quotas))
+         (S
+          (VP (VG (VBG ensuring))
+           (SBAR (IN that)
+            (S
+             (NP (NP (DT a) (JJ full) (CD |60|) (NN %))
+              (PP (IN of)
+               (NP (NP (NNP Europe) (POS |'s|)) (NN TV) (NNS shows))))
+             (VP (VG (VB be) (VBN produced))
+              (PP (IN in) (NP (NNP Europe)))))))))))))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 105: Canada 's current oil exports to the U.S. total about 600,000 barrels a day , or about 9.1  %  of net U.S. crude  imports  , said John Lichtblau , president of the New York-based Petroleum Industry Research Foundation .
+Penn Treebank for Sentence 105:
+
+((S
+  (S
+   (NP
+    (NP (NP (NNP Canada) (POS |'s|)) (ADJP (JJ current)) (NN oil)
+     (NNS exports))
+    (PP (IN to) (NP (DT the) (NNP U.S.))))
+   (VP (VG (VBP total))
+    (NP
+     (NP (NP (QP (ADVP (RB about)) (CD |600,000|)) (NNS barrels))
+      (NP (DT a) (NN day)))
+     (|,| |,|) (CC or)
+     (NP (NP (QP (ADVP (RB about)) (CD |9.1|)) (NN %))
+      (PP (IN of) (NP (JJ net) (NNP U.S.) (NN crude) (NNS imports)))))))
+  (|,| |,|) (VP (VG (VBD said)))
+  (NP (NP (NNP John) (NNP Lichtblau)) (|,| |,|)
+   (NP (NP (NN president))
+    (PP (IN of)
+     (NP (DT the) (S (VP (ADJP (JJ New)) (VG (VBN York-based))))
+      (NP (NNP Petroleum) (NNP Industry) (NNP Research) (NNP Foundation))))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 106: Mr. Watkins said  volume  on Interprovincial 's system is down about 2  %  since January and is expected to fall further , making expansion unnecessary until perhaps the mid-1990s .
+Penn Treebank for Sentence 106:
+
+((S (NP (NNP Mr.) (NNP Watkins))
+  (VP (VG (VBD said))
+   (SBAR
+    (S
+     (NP (NP (NN volume))
+      (PP (IN on) (NP (NP (NNP Interprovincial) (POS |'s|)) (NN system))))
+     (VP
+      (VP (VG (VBZ is)) (PP (IN down) (NP (ADVP (RB about)) (CD 2) (NN %)))
+       (PP (IN since) (NP (NNP January))))
+      (CC and)
+      (VP (VG (VBZ is) (VBN expected))
+       (S (VP (VG (TO to) (VB fall)) (ADVP (RBR further)))))
+      (|,| |,|)
+      (S
+       (VP (VG (VBG making))
+        (S (NP (NN expansion)) (ADJP (JJ unnecessary))
+         (PP (IN until)
+          (NP (ADVP (RB perhaps)) (DT the) (NNS mid-1990s))))))))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 107: The  number  of active drilling rigs in Canada is down 30  %  from a year ago , and the number of completed oil wells is `` down more than that , due to the increasing focus on gas exploration , '' said Robert Feick , manager of crude oil with Calgary 's Independent Petroleum Association of Canada , an industry group .
+Penn Treebank for Sentence 107:
+
+((S
+  (S
+   (S
+    (NP (NP (DT The) (NN number))
+     (PP (IN of)
+      (NP (NP (JJ active) (NN drilling) (NNS rigs))
+       (PP (IN in) (NP (NNP Canada))))))
+    (VP (VG (VBZ is))
+     (PP (IN down) (NP (CD |30|) (NN %))
+      (PP (IN from) (ADVP (NP (DT a) (NN year)) (RB ago))))))
+   (|,| |,|) (CONJP (CC and))
+   (S
+    (NP (NP (DT the) (NN number))
+     (PP (IN of) (NP (S (VP (VG (VBN completed)))) (NN oil) (NX (NNS wells)))))
+    (VP (VG (VBZ is)) (|``| |``|)
+     (PP (IN down) (NP (NP (DT more)) (PP (IN than) (NP (DT that)))))))
+   (|,| |,|)
+   (PP (RB due)
+    (PP (IN to)
+     (NP (NP (DT the) (S (ADJP (VBG increasing))) (NX (NN focus)))
+      (PP (IN on) (NP (NN gas) (NN exploration)))))))
+  (|,| |,|) (|''| |''|) (VP (VG (VBD said)))
+  (NP (NP (NNP Robert) (NNP Feick)) (|,| |,|)
+   (NP (NP (NN manager)) (PP (IN of) (NP (JJ crude) (NN oil)))
+    (PP (IN with)
+     (NP
+      (NP (NP (NNP Calgary) (POS |'s|))
+       (NX (NX (NNP Independent) (NNP Petroleum) (NNP Association))
+        (PP (IN of) (NP (NNP Canada)))))
+      (|,| |,|) (NP (DT an) (NN industry) (NN group))))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 108: Interprovincial transports about 75 % of all crude produced in western Canada , and almost 60  %  of Interprovincial 's total  volume  consists of light crude .
+Penn Treebank for Sentence 108:
+
+((S
+  (S (NP (NNP Interprovincial))
+   (VP (VG (VBZ transports))
+    (NP (NP (QP (ADVP (RB about)) (CD |75|)) (NN %))
+     (PP (IN of)
+      (NP (NP (DT all) (NN crude))
+       (S
+        (VP (VG (VBN produced))
+         (PP (IN in) (NP (JJ western) (NNP Canada))))))))))
+  (|,| |,|) (CONJP (CC and))
+  (S
+   (NP (NP (QP (ADVP (RB almost)) (CD |60|)) (NN %))
+    (PP (IN of)
+     (NP (NP (NNP Interprovincial) (POS |'s|)) (JJ total) (NN volume))))
+   (VP (VG (VBZ consists)) (PP (IN of) (NP (JJ light) (NN crude)))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 109: Interprovincial transports about 75  %  of all  crude  produced in western Canada , and almost 60 % of Interprovincial 's total volume consists of light crude .
+Penn Treebank for Sentence 109:
+
+((S
+  (S (NP (NNP Interprovincial))
+   (VP (VG (VBZ transports))
+    (NP (NP (QP (ADVP (RB about)) (CD |75|)) (NN %))
+     (PP (IN of)
+      (NP (NP (DT all) (NN crude))
+       (S
+        (VP (VG (VBN produced))
+         (PP (IN in) (NP (JJ western) (NNP Canada))))))))))
+  (|,| |,|) (CONJP (CC and))
+  (S
+   (NP (NP (QP (ADVP (RB almost)) (CD |60|)) (NN %))
+    (PP (IN of)
+     (NP (NP (NNP Interprovincial) (POS |'s|)) (JJ total) (NN volume))))
+   (VP (VG (VBZ consists)) (PP (IN of) (NP (JJ light) (NN crude)))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 110: Inland Steel Industries Inc. expects to report that third-quarter  earnings   dropped  more than 50  %  from the previous quarter as a result of reduced sales volume and increased costs .
+Penn Treebank for Sentence 110:
+
+((S (NP (NNP Inland) (NNP Steel) (NNP Industries) (NNP Inc.))
+  (VP (VG (VBZ expects))
+   (S
+    (VP (VG (TO to) (VB report))
+     (SBAR (IN that)
+      (S (NP (NN third-quarter) (NNS earnings))
+       (VP (VG (VBD dropped))
+        (NP (QP (QP (ADVP (RBR more)) (IN than)) (QP (CD |50|))) (NN %))
+        (PP (IN from) (NP (DT the) (ADJP (JJ previous)) (NN quarter)))
+        (SBAR (IN as)
+         (S
+          (NP (NP (DT a) (NN result))
+           (PP (IN of)
+            (NP (NP (S (VP (VG (VBN reduced)))) (NNS sales) (NX (NN volume)))
+             (CC and)
+             (NP (S (VP (VG (VBN increased)))) (NX (NNS costs))))))))))))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 111: Last week , Microsoft said it expects  revenue  for its first quarter ended Sept. 30 to  increase  34  %  .
+Penn Treebank for Sentence 111:
+
+((S (NP (ADJP (JJ Last)) (NN week)) (|,| |,|) (NP (NNP Microsoft))
+  (VP (VG (VBD said))
+   (SBAR
+    (S (NP (PRP it))
+     (VP (VG (VBZ expects))
+      (S
+       (NP (NP (NN revenue))
+        (PP (IN for)
+         (NP (NP (PRP$ its) (JJ first) (NN quarter))
+          (S (VP (VG (VBN ended)) (NP (NNP Sept.) (CD |30|)))))))
+       (VP (VG (TO to) (VB increase)) (NP (CD |34|) (NN %))))))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 112: Seven of nine states have grown each year since 1980 , including New York , which lost 4  %  of its  population  during the 1970s .
+Penn Treebank for Sentence 112:
+
+((S (NP (NP (CD Seven)) (PP (IN of) (NP (CD nine) (NNS states))))
+  (VP (VG (VBP have) (VBN grown)) (NP (DT each) (NN year))
+   (PP (IN since) (NP (CD |1980|))) (|,| |,|)
+   (S
+    (VP (VG (VBG including))
+     (NP (NP (NNP New) (NNP York)) (|,| |,|)
+      (SBAR (WHNP (WDT which))
+       (S
+        (VP (VG (VBD lost))
+         (NP (NP (CD 4) (NN %)) (PP (IN of) (NP (PRP$ its) (NN population))))
+         (PP (IN during) (NP (DT the) (NNS |1970s|))))))))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 113: A new Census Bureau study of the noninstitutionalized population shows that 64  %  of  people  aged 65 to 74 were living with a spouse in 1988 , up from 59 % in 1970 .
+Penn Treebank for Sentence 113:
+
+((S
+  (NP (NP (DT A) (ADJP (JJ new)) (NP (NNP Census) (NNP Bureau)) (NN study))
+   (PP (IN of) (NP (DT the) (JJ noninstitutionalized) (NN population))))
+  (VP (VG (VBZ shows))
+   (SBAR (IN that)
+    (S
+     (NP (NP (CD |64|) (NN %))
+      (PP (IN of)
+       (NP (NP (NNS people))
+        (S (VP (VG (VBN aged)) (NP (CD |65|) (TO to) (CD |74|)))))))
+     (VP (VG (VBD were) (VBG living)) (PP (IN with) (NP (DT a) (NN spouse)))
+      (PP (IN in) (NP (CD |1988|))) (|,| |,|)
+      (PP (RB up)
+       (PP (IN from) (NP (CD |59|) (NN %)) (PP (IN in) (NP (CD |1970|)))))))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 114: In 1988 , 10  %  of  those  aged 65 to 74 lived with relatives other than spouses , down from 15 % in 1970 .
+Penn Treebank for Sentence 114:
+
+((S (PP (IN In) (NP (CD |1988|))) (|,| |,|)
+  (NP (NP (CD |10|) (NN %))
+   (PP (IN of)
+    (NP (NP (DT those))
+     (S (VP (VG (VBN aged)) (NP (CD |65|) (TO to) (CD |74|)))))))
+  (VP (VG (VBD lived))
+   (PP (IN with)
+    (NP (NP (NNS relatives))
+     (S (ADJP (JJ other) (PP (IN than) (NP (NNS spouses)))))))
+   (|,| |,|)
+   (PP (RB down)
+    (PP (IN from) (NP (CD |15|) (NN %)) (PP (IN in) (NP (CD |1970|))))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 115: Only 17  %  of  those  aged 75 and older lived with relatives other than spouses in 1988 , down from 26 % in 1970 .
+Penn Treebank for Sentence 115:
+
+((S
+  (NP (NP (QP (ADVP (RB Only)) (QP (CD |17|))) (NN %))
+   (PP (IN of)
+    (NP (NP (DT those))
+     (ADJP (S (VP (VG (VBN aged)) (NP (CD |75|)))) (CC and)
+      (S (ADJP (JJR older)))))))
+  (VP (VG (VBD lived))
+   (PP (IN with)
+    (NP (NP (NNS relatives))
+     (S (ADJP (JJ other) (PP (IN than) (NP (NNS spouses)))))))
+   (PP (IN in) (NP (CD |1988|))) (|,| |,|)
+   (PP (RB down)
+    (PP (IN from) (NP (CD |26|) (NN %)) (PP (IN in) (NP (CD |1970|))))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 116: Although they represent only 2  %  of the  population  , they control nearly one-third of discretionary income .
+Penn Treebank for Sentence 116:
+
+((S
+  (SBAR (PX (IN Although))
+   (S (NP (PRP they))
+    (VP (VG (VBP represent))
+     (NP (NP (QP (ADVP (RB only)) (QP (CD 2))) (NN %))
+      (PP (IN of) (NP (DT the) (NN population)))))))
+  (S (|,| |,|) (NP (PRP they))
+   (VP (VG (VBP control))
+    (NP (NP (ADVP (RB nearly)) (NN one-third))
+     (PP (IN of) (NP (JJ discretionary) (NN income)))))
+   (|.| |.|))))
+
+Nombank Tags for Sentence 117: Despite their considerable incomes and assets , 40  %  of the  respondents  in the study do n't feel financially secure , and one-fourth do n't feel that they have made it .
+Penn Treebank for Sentence 117:
+
+((S
+  (PP (IN Despite)
+   (NP (PRP$ their) (JJ considerable)
+    (NX (NNS incomes) (CC and) (NNS assets))))
+  (|,| |,|)
+  (S
+   (NP (NP (CD |40|) (NN %))
+    (PP (IN of)
+     (NP (NP (DT the) (NNS respondents))
+      (PP (IN in) (NP (DT the) (NN study))))))
+   (VP (VG (VBP do) (ADVP (RB |n't|)) (VB feel))
+    (ADJP (ADVP (RB financially)) (JJ secure))))
+  (|,| |,|) (CONJP (CC and))
+  (S (NP (NN one-fourth))
+   (VP (VG (VBP do) (ADVP (RB |n't|)) (VB feel))
+    (SBAR (IN that)
+     (S (NP (PRP they)) (VP (VG (VBP have) (VBN made)) (NP (PRP it)))))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 118: The American Bankers Association says that women make up 47  %  of  officials  and  managers  in the top 50 banks , up from 33 % in 1978 .
+Penn Treebank for Sentence 118:
+
+((S (NP (DT The) (NP (NNP American) (NNP Bankers) (NNP Association)))
+  (VP (VG (VBZ says))
+   (SBAR (IN that)
+    (S (NP (NNS women))
+     (VP (VG (VB make)) (ADVP (RP up))
+      (NP (NP (CD |47|) (NN %))
+       (PP (IN of)
+        (NP (NP (NNS officials) (CC and) (NNS managers))
+         (PP (IN in) (NP (DT the) (JJ top) (CD |50|) (NNS banks)))))
+       (|,| |,|)
+       (PP (RB up)
+        (PP (IN from) (NP (CD |33|) (NN %))
+         (PP (IN in) (NP (CD |1978|))))))))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 119: The  amount  of income divvied up for each man , woman and child was $ 16,489 in 1988 , up 6.6  %  from $ 15,472 in 1987 .
+Penn Treebank for Sentence 119:
+
+((S
+  (NP (NP (DT The) (NN amount)) (PP (IN of) (NP (NN income)))
+   (S
+    (VP (VG (VBN divvied)) (ADVP (RP up))
+     (PP (IN for)
+      (NP (DT each) (NX (NN man) (|,| |,|) (NN woman) (CC and) (NN child)))))))
+  (VP (VG (VBD was)) (NP (NP (QP (NP ($ $)) (CD |16,489|))))
+   (PP (IN in) (NP (CD |1988|))) (|,| |,|)
+   (PP (IN up) (NP (CD |6.6|) (NN %))
+    (PP (IN from) (NP (QP (NP ($ $)) (CD |15,472|)))
+     (PP (IN in) (NP (CD |1987|))))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 120: Iowa , for instance , saw its  population   grow   by  11,000 people , or 0.4  %  , between 1987 and 1988 , the Census Bureau says .
+Penn Treebank for Sentence 120:
+
+((S
+  (S (NP (NNP Iowa)) (|,| |,|) (PP (PX (IN for)) (NP (NX (NN instance))))
+   (|,| |,|)
+   (VP (VG (VBD saw))
+    (S (NP (PRP$ its) (NN population))
+     (VP (VG (VB grow))
+      (PP (IN by)
+       (NP (NP (CD |11,000|) (NNS people)) (|,| |,|) (CC or)
+        (NP (CD |0.4|) (NN %))))
+      (|,| |,|) (NP (IN between) (QP (CD |1987|) (CC and) (CD |1988|)))))))
+  (|,| |,|) (NP (DT the) (NP (NNP Census) (NNP Bureau))) (VP (VG (VBZ says)))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 121: There are 13.1 million  students  in college this fall , up 2  %  from 1988 , the National Center for Education Statistics estimates .
+Penn Treebank for Sentence 121:
+
+((S
+  (S (NP (EX There))
+   (VP (VG (VBP are))
+    (NP (NP (NP (CD |13.1|) (CD million)) (NNS students))
+     (PP (IN in) (NP (NN college))))
+    (NP (DT this) (NN fall)) (|,| |,|)
+    (PP (IN up) (NP (CD 2) (NN %)) (PP (IN from) (NP (CD |1988|))))))
+  (|,| |,|)
+  (NP (NP (DT the) (NP (NNP National) (NNP Center)))
+   (PP (IN for) (NP (NNP Education) (NNP Statistics))))
+  (VP (VG (VBZ estimates))) (|.| |.|)))
+
+Nombank Tags for Sentence 122: The measure repeals a 50 % exclusion given to banks on the interest from loans used to acquire securities for an ESOP , if the ESOP owns less than 30  %  of the employer 's  stock  .
+Penn Treebank for Sentence 122:
+
+((S
+  (S (NP (DT The) (NN measure))
+   (VP (VG (VBZ repeals))
+    (NP (NP (DT a) (NP (CD |50|) (NN %)) (NN exclusion))
+     (S
+      (VP (VG (VBN given)) (PP (IN to) (NP (NNS banks)))
+       (PP (IN on)
+        (NP (NP (DT the) (NN interest))
+         (PP (IN from)
+          (NP (NP (NNS loans))
+           (S
+            (VP (VG (VBN used))
+             (S
+              (VP (VG (TO to) (VB acquire)) (NP (NNS securities))
+               (PP (IN for) (NP (DT an) (NNP ESOP))))))))))))))
+    (|,| |,|)))
+  (SBAR (PX (IN if))
+   (S (NP (DT the) (NNP ESOP))
+    (VP (VG (VBZ owns))
+     (NP (NP (QP (QP (ADVP (RBR less)) (IN than)) (QP (CD |30|))) (NN %))
+      (PP (IN of) (NP (NP (DT the) (NN employer) (POS |'s|)) (NN stock)))))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 123: `` Those corrections lasted one to four weeks and  took  the  market  10%-12  %   down  , '' she says .
+Penn Treebank for Sentence 123:
+
+((S (|``| |``|)
+  (S (NP (DT Those) (NNS corrections))
+   (VP (VP (VG (VBD lasted)) (NP (QP (CD one) (TO to) (CD four)) (NNS weeks)))
+    (CC and)
+    (VP (VG (VBD took)) (NP (DT the) (NN market))
+     (ADVP (NP (QP (CD 10%-12) (NN %))) (RB down)))))
+  (|,| |,|) (|''| |''|) (NP (PRP she)) (VP (VG (VBZ says))) (|.| |.|)))
+
+Nombank Tags for Sentence 124: `` The  market  was up 35  %  since -LCB- President -RCB- Bush took office , '' Mr. Gabelli says , so a correction was to be expected .
+Penn Treebank for Sentence 124:
+
+((SBAR (|``| |``|)
+  (S
+   (S (NP (DT The) (NN market))
+    (VP (VG (VBD was)) (PP (IN up) (NP (CD |35|) (NN %)))))
+   (SBAR (PX (IN since))
+    (S (NP (NP (-LRB- -LCB-) (NNP President) (-RRB- -RCB-)) (NNP Bush))
+     (VP (VG (VBD took)) (NP (NN office))))))
+  (|,| |,|)
+  (SBAR (|''| |''|) (S (NP (NNP Mr.) (NNP Gabelli)) (VP (VG (VBZ says)))))
+  (|,| |,|) (PX (IN so))
+  (S (NP (DT a) (NN correction))
+   (VP (VG (VBD was)) (S (VP (VG (TO to) (VB be) (VBN expected))))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 125: Nonetheless , the Nasdaq Composite  Index  suffered its biggest point decline of the year and its sixth worst ever ,  diving  14.90 , or 3  %  , to 467.29 .
+Penn Treebank for Sentence 125:
+
+((S (ADVP (ADVX (RB Nonetheless))) (|,| |,|)
+  (NP (DT the) (NP (NNP Nasdaq) (NNP Composite) (NNP Index)))
+  (VP (VG (VBD suffered))
+   (NP
+    (NP (NP (DETP (PRP$ its)) (JJS biggest) (NN point) (NN decline))
+     (PP (IN of) (NP (DT the) (NN year))))
+    (CC and) (NP (PRP$ its) (JJ sixth) (JJS worst) (RB ever)))
+   (|,| |,|)
+   (S
+    (VP (VG (VBG diving))
+     (NP (NP (CD |14.90|)) (|,| |,|) (CC or) (NP (CD 3) (NN %))) (|,| |,|)
+     (PP (IN to) (NP (CD |467.29|))))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 126: The Nasdaq 100  Index  of the largest nonfinancial issues , including the big OTC technology issues ,  tumbled  4.2  %  , or 19.76 , to 449.33 .
+Penn Treebank for Sentence 126:
+
+((S
+  (NP (NP (DT The) (NP (NNP Nasdaq)) (CD |100|) (NNP Index))
+   (PP (IN of)
+    (NP (NP (DT the) (JJS largest) (JJ nonfinancial) (NNS issues)) (|,| |,|)
+     (S
+      (VP (VG (VBG including))
+       (NP (DT the) (JJ big) (NNP OTC) (NN technology) (NNS issues)))))))
+  (|,| |,|)
+  (VP (VG (VBD tumbled))
+   (NP (NP (CD |4.2|) (NN %)) (|,| |,|) (CC or) (NP (CD |19.76|))) (|,| |,|)
+   (PP (IN to) (NP (CD |449.33|))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 127: The Nasdaq Financial  Index  of giant insurance and banking stocks  dropped  2  %  , or 9.31 , to 462.98 .
+Penn Treebank for Sentence 127:
+
+((S
+  (NP (NP (DT The) (NP (NNP Nasdaq) (NNP Financial) (NNP Index)))
+   (PP (IN of)
+    (NP (NN giant) (NX (NN insurance) (CC and) (NN banking)) (NNS stocks))))
+  (VP (VG (VBD dropped))
+   (NP (NP (CD 2) (NN %)) (|,| |,|) (CC or) (NP (CD |9.31|))) (|,| |,|)
+   (PP (IN to) (NP (CD |462.98|))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 128:  McCaw   lost  8  %  , or 3 1/2 , to 40 .
+Penn Treebank for Sentence 128:
+
+((S (NP (NNP McCaw))
+  (VP (VG (VBD lost))
+   (NP (NP (CD 8) (NN %)) (|,| |,|) (CC or) (NP (CD 3) (CD |1/2|))) (|,| |,|)
+   (PP (IN to) (NP (CD |40|))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 129: LIN  Broadcasting  ,  dropped  5 1/2 , or 5  %  , to 107 1/2 .
+Penn Treebank for Sentence 129:
+
+((S (NP (NNP LIN) (NNP Broadcasting)) (|,| |,|)
+  (VP (VG (VBD dropped))
+   (NP (NP (CD 5) (CD |1/2|)) (|,| |,|) (CC or) (NP (CD 5) (NN %))) (|,| |,|)
+   (PP (IN to) (NP (CD |107|) (CD |1/2|))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 130: By comparison , the New York Stock Exchange  Composite   tumbled  5.8  %  Friday and the American Stock Exchange Composite fell 4 % .
+Penn Treebank for Sentence 130:
+
+((S (PP (PX (IN By)) (NP (NX (NN comparison)))) (|,| |,|)
+  (S
+   (NP (DT the)
+    (NP (NNP New) (NNP York) (NNP Stock) (NNP Exchange) (NNP Composite)))
+   (VP (VG (VBD tumbled)) (NP (CD |5.8|) (NN %)) (NP (NNP Friday))))
+  (CONJP (CC and))
+  (S
+   (NP (DT the) (NP (NNP American) (NNP Stock) (NNP Exchange) (NNP Composite)))
+   (VP (VG (VBD fell)) (NP (CD 4) (NN %))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 131: By comparison , the New York Stock Exchange Composite tumbled 5.8 % Friday and the American Stock Exchange  Composite   fell  4  %  .
+Penn Treebank for Sentence 131:
+
+((S (PP (PX (IN By)) (NP (NX (NN comparison)))) (|,| |,|)
+  (S
+   (NP (DT the)
+    (NP (NNP New) (NNP York) (NNP Stock) (NNP Exchange) (NNP Composite)))
+   (VP (VG (VBD tumbled)) (NP (CD |5.8|) (NN %)) (NP (NNP Friday))))
+  (CONJP (CC and))
+  (S
+   (NP (DT the) (NP (NNP American) (NNP Stock) (NNP Exchange) (NNP Composite)))
+   (VP (VG (VBD fell)) (NP (CD 4) (NN %))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 132: On Oct. 16 , 1987 , the Nasdaq  Composite   fell  16.18 points , or 3.8  %  , followed by its devastating 46.12-point , or 11 % slide , three days later .
+Penn Treebank for Sentence 132:
+
+((S (PP (IN On) (NP (NNP Oct.) (CD |16|) (|,| |,|) (CD |1987|))) (|,| |,|)
+  (NP (DT the) (NP (NNP Nasdaq) (NNP Composite)))
+  (VP (VG (VBD fell))
+   (NP (NP (CD |16.18|) (NNS points)) (|,| |,|) (CC or) (NP (CD |3.8|) (NN %)))
+   (|,| |,|)
+   (S
+    (VP (VG (VBN followed))
+     (PP (IN by)
+      (NP (PRP$ its) (S (ADJP (VBG devastating)))
+       (NP (NP (NN 46.12-point)) (|,| |,|) (CC or) (NP (CD |11|) (NN %)))
+       (NX (NN slide))))
+     (|,| |,|) (ADVP (NP (CD three) (NNS days)) (RBR later)))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 133: On Oct. 16 , 1987 , the Nasdaq Composite fell 16.18 points , or 3.8 % , followed by  its  devastating 46.12-point , or 11  %   slide  , three days later .
+Penn Treebank for Sentence 133:
+
+((S (PP (IN On) (NP (NNP Oct.) (CD |16|) (|,| |,|) (CD |1987|))) (|,| |,|)
+  (NP (DT the) (NP (NNP Nasdaq) (NNP Composite)))
+  (VP (VG (VBD fell))
+   (NP (NP (CD |16.18|) (NNS points)) (|,| |,|) (CC or) (NP (CD |3.8|) (NN %)))
+   (|,| |,|)
+   (S
+    (VP (VG (VBN followed))
+     (PP (IN by)
+      (NP (PRP$ its) (S (ADJP (VBG devastating)))
+       (NP (NP (NN 46.12-point)) (|,| |,|) (CC or) (NP (CD |11|) (NN %)))
+       (NX (NN slide))))
+     (|,| |,|) (ADVP (NP (CD three) (NNS days)) (RBR later)))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 134:  Stocks  , as measured by the Standard & Poor 's 500-stock index , have been stellar performers this year ,  rising  27.97  %  before Friday 's plunge , excluding dividends .
+Penn Treebank for Sentence 134:
+
+((S (NP (NNS Stocks)) (|,| |,|)
+  (SBAR (IN as)
+   (S
+    (VP (VG (VBN measured))
+     (PP (IN by)
+      (NP (NP (DT the) (NP (NNP Standard) (NNP &) (NNP Poor)) (POS |'s|))
+       (NNP 500-stock) (NN index))))))
+  (|,| |,|)
+  (VP (VG (VBP have) (VBN been)) (NP (JJ stellar) (NNS performers))
+   (NP (DT this) (NN year)) (|,| |,|)
+   (S
+    (VP (VG (VBG rising)) (NP (CD |27.97|) (NN %))
+     (PP (IN before) (NP (NP (NNP Friday) (POS |'s|)) (NN plunge))) (|,| |,|)
+     (S (VP (VG (VBG excluding)) (NP (NNS dividends)))))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 135: Neil Weisman , whose New York-based Chilmark Capital Partners had converted 85  %  of its $ 220 million investment  pool  to cash in recent months , said he was besieged by Wall Street firms Friday asking him to take stock off their hands .
+Penn Treebank for Sentence 135:
+
+((S
+  (NP (NP (NNP Neil) (NNP Weisman)) (|,| |,|)
+   (SBAR
+    (WHNP (WHDETP (WP$ whose)) (ADJP (ADJP (JJ New)) (VBN York-based))
+     (NNP Chilmark) (NNP Capital) (NNP Partners))
+    (S
+     (VP (VG (VBD had) (VBN converted))
+      (NP (NP (CD |85|) (NN %))
+       (PP (IN of)
+        (NP (PRP$ its) (NP (QP (NP ($ $)) (NP (CD |220|) (CD million))))
+         (NN investment) (NN pool))))
+      (PP (IN to) (NP (NN cash)))
+      (PP (IN in) (NP (ADJP (JJ recent)) (NNS months)))))))
+  (|,| |,|)
+  (VP (VG (VBD said))
+   (SBAR
+    (S (NP (PRP he))
+     (VP (VG (VBD was) (VBN besieged))
+      (PP (IN by) (NP (NP (NP (NNP Wall) (NNP Street)) (NNS firms))))
+      (NP (NNP Friday))
+      (VP (VG (VBG asking)) (NP (PRP him))
+       (S
+        (VP (VG (TO to) (VB take)) (NP (NN stock))
+         (PP (IN off) (NP (DETP (PRP$ their)) (NNS hands))))))))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 136: The nation 's largest short-selling operation is Feshbach Brothers , Palo Alto , Calif. , which said last May that its short  positions  had  shown   losses   of  10  %  for the year up to that point .
+Penn Treebank for Sentence 136:
+
+((S
+  (NP (NP (DT The) (NN nation) (POS |'s|)) (JJS largest) (NN short-selling)
+   (NN operation))
+  (VP (VG (VBZ is))
+   (NP (NP (NNP Feshbach) (NNP Brothers)) (|,| |,|)
+    (NP (NP (NNP Palo) (NNP Alto)) (|,| |,|) (NP (NNP Calif.))) (|,| |,|)
+    (SBAR (WHNP (WDT which))
+     (S
+      (VP (VG (VBD said)) (NP (ADJP (JJ last)) (NNP May))
+       (SBAR (IN that)
+        (S (NP (PRP$ its) (ADJP (JJ short)) (NNS positions))
+         (VP (VG (VBD had) (VBN shown))
+          (NP (NP (NNS losses)) (PP (IN of) (NP (CD |10|) (NN %)))
+           (PP (IN for) (NP (DT the) (NN year))))
+          (PP (IN up) (PP (PP (IN to) (NP (DT that) (NN point)))))))))))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 137: Speaking through its Dutch lawyers , ASKO also disclosed it holds a 15  %   stake  in  Ahold  .
+Penn Treebank for Sentence 137:
+
+((S
+  (S
+   (VP (VG (VBG Speaking))
+    (PP (IN through) (NP (PRP$ its) (JJ Dutch) (NNS lawyers)))))
+  (|,| |,|) (NP (NNP ASKO)) (ADVP (ADVX (RB also)))
+  (VP (VG (VBD disclosed))
+   (SBAR
+    (S (NP (PRP it))
+     (VP (VG (VBZ holds))
+      (NP (NP (DT a) (NP (CD |15|) (NN %)) (NN stake))
+       (PP (IN in) (NP (NNP Ahold))))))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 138: Consider the growth of portables , which now comprise 12  %  of all personal computer  sales  .
+Penn Treebank for Sentence 138:
+
+((S
+  (VP (VG (VB Consider))
+   (NP (NP (DT the) (NN growth))
+    (PP (IN of)
+     (NP (NP (NNS portables)) (|,| |,|)
+      (SBAR (WHNP (WDT which))
+       (S (ADVP (RB now))
+        (VP (VG (VBP comprise))
+         (NP (NP (CD |12|) (NN %))
+          (PP (IN of)
+           (NP (DT all) (JJ personal) (NN computer) (NNS sales)))))))))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 139: Compaq 's announcement also spells trouble for Zenith , which last year had 28  %  of the U.S. laptop  market  but recently agreed to sell its computer business to Cie. des Machines Bull , the French government-owned computer maker .
+Penn Treebank for Sentence 139:
+
+((S (NP (NP (NNP Compaq) (POS |'s|)) (NN announcement)) (ADVP (ADVX (RB also)))
+  (VP (VG (VBZ spells)) (NP (NN trouble))
+   (PP (PX (IN for))
+    (NP (NP (NNP Zenith)) (|,| |,|)
+     (SBAR (WHNP (WDT which))
+      (S (NP (ADJP (JJ last)) (NN year))
+       (VP
+        (VP (VG (VBD had))
+         (NP (NP (CD |28|) (NN %))
+          (PP (IN of) (NP (DT the) (NNP U.S.) (NN laptop) (NN market)))))
+        (CC but)
+        (VP (ADVP (RB recently)) (VG (VBD agreed))
+         (S
+          (VP (VG (TO to) (VB sell))
+           (NP (PRP$ its) (NN computer) (NN business))
+           (PP (IN to)
+            (NP (NP (NNP Cie.) (NNP des) (NNP Machines) (NNP Bull)) (|,| |,|)
+             (NP (DT the) (JJ French) (S (VP (VG (VBN government-owned))))
+              (NN computer) (NX (NN maker))))))))))))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 140: Sharp increases in the price of fresh produce caused Spain 's September consumer price  index  to  shoot  up 1.1  %  from the previous month , pushing the annual rate of inflation to 6.8 % , the National Institute of Statistics said Friday .
+Penn Treebank for Sentence 140:
+
+((S
+  (S
+   (NP (NP (JJ Sharp) (NNS increases))
+    (PP (IN in)
+     (NP (NP (DT the) (NN price))
+      (PP (IN of) (NP (ADJP (JJ fresh)) (NN produce))))))
+   (VP (VG (VBD caused))
+    (S
+     (NP (NP (NNP Spain) (POS |'s|)) (NNP September) (NN consumer) (NN price)
+      (NN index))
+     (VP (VG (TO to) (VB shoot)) (ADVP (RB up)) (NP (CD |1.1|) (NN %))
+      (PP (IN from) (NP (DT the) (ADJP (JJ previous)) (NN month))) (|,| |,|)
+      (S
+       (VP (VG (VBG pushing))
+        (NP (NP (DT the) (ADJP (JJ annual)) (NN rate))
+         (PP (IN of) (NP (NN inflation))))
+        (PP (IN to) (NP (CD |6.8|) (NN %)))))))))
+  (|,| |,|)
+  (NP (NP (DT the) (NP (NNP National) (NNP Institute)))
+   (PP (IN of) (NP (NNP Statistics))))
+  (VP (VG (VBD said)) (NP (NNP Friday))) (|.| |.|)))
+
+Nombank Tags for Sentence 141:  Prices  have  risen  5.9  %  in the first nine months of the year , outstripping both the initial 3 % inflation goal set by the government of Socialist Prime Minister Felipe Gonzalez and the second , revised goal of 5.8 % .
+Penn Treebank for Sentence 141:
+
+((S (NP (NNS Prices))
+  (VP (VG (VBP have) (VBN risen)) (NP (CD |5.9|) (NN %))
+   (PP (IN in)
+    (NP (NP (DT the) (JJ first) (CD nine) (NNS months))
+     (PP (IN of) (NP (DT the) (NN year)))))
+   (|,| |,|)
+   (S
+    (VP (VG (VBG outstripping))
+     (NP (DT both)
+      (NP
+       (NP (DT the) (ADJP (JJ initial)) (NP (CD 3) (NN %)) (NN inflation)
+        (NN goal))
+       (S
+        (VP (VG (VBN set))
+         (PP (IN by)
+          (NP (NP (DT the) (NN government))
+           (PP (IN of)
+            (NP (NNP Socialist) (NNP Prime) (NNP Minister) (NNP Felipe)
+             (NNP Gonzalez))))))))
+      (CC and)
+      (NP
+       (NP (DT the) (JJ second) (|,| |,|) (S (VP (VG (VBN revised))))
+        (NX (NN goal)))
+       (PP (IN of) (NP (CD |5.8|) (NN %))))))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 142: Japan 's wholesale  prices  in September rose 3.3 % from a year earlier and were up 0.4  %  from the previous month , the Bank of Japan announced Friday .
+Penn Treebank for Sentence 142:
+
+((S
+  (S (NP (NP (NNP Japan) (POS |'s|)) (JJ wholesale) (NNS prices))
+   (PP (IN in) (NP (NNP September)))
+   (VP
+    (VP (VG (VBD rose)) (NP (CD |3.3|) (NN %))
+     (PP (IN from) (ADVP (NP (DT a) (NN year)) (RBR earlier))))
+    (CC and)
+    (VP (VG (VBD were))
+     (PP (IN up) (NP (CD |0.4|) (NN %))
+      (PP (IN from) (NP (DT the) (ADJP (JJ previous)) (NN month)))))))
+  (|,| |,|) (NP (NP (DT the) (NNP Bank)) (PP (IN of) (NP (NNP Japan))))
+  (VP (VG (VBD announced)) (NP (NNP Friday))) (|.| |.|)))
+
+Nombank Tags for Sentence 143: Japan 's wholesale  prices  in September  rose  3.3  %  from a year earlier and were up 0.4 % from the previous month , the Bank of Japan announced Friday .
+Penn Treebank for Sentence 143:
+
+((S
+  (S (NP (NP (NNP Japan) (POS |'s|)) (JJ wholesale) (NNS prices))
+   (PP (IN in) (NP (NNP September)))
+   (VP
+    (VP (VG (VBD rose)) (NP (CD |3.3|) (NN %))
+     (PP (IN from) (ADVP (NP (DT a) (NN year)) (RBR earlier))))
+    (CC and)
+    (VP (VG (VBD were))
+     (PP (IN up) (NP (CD |0.4|) (NN %))
+      (PP (IN from) (NP (DT the) (ADJP (JJ previous)) (NN month)))))))
+  (|,| |,|) (NP (NP (DT the) (NNP Bank)) (PP (IN of) (NP (NNP Japan))))
+  (VP (VG (VBD announced)) (NP (NNP Friday))) (|.| |.|)))
+
+Nombank Tags for Sentence 144: Ford Motor Co. said it acquired 5  %  of the  shares  in Jaguar PLC .
+Penn Treebank for Sentence 144:
+
+((S (NP (NNP Ford) (NNP Motor) (NNP Co.))
+  (VP (VG (VBD said))
+   (SBAR
+    (S (NP (PRP it))
+     (VP (VG (VBD acquired))
+      (NP (NP (CD 5) (NN %))
+       (PP (IN of)
+        (NP (NP (DT the) (NNS shares))
+         (PP (IN in) (NP (NNP Jaguar) (NNP PLC))))))))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 145: The U.S. Federal Trade Commission advised Ford last week that it would n't raise any objection to the acquisition of as much as 15  %  of Jaguar  shares  .
+Penn Treebank for Sentence 145:
+
+((S (NP (DT The) (NP (NNP U.S.) (NNP Federal) (NNP Trade) (NNP Commission)))
+  (VP (VG (VBD advised)) (NP (NNP Ford)) (NP (ADJP (JJ last)) (NN week))
+   (SBAR (IN that)
+    (S (NP (PRP it))
+     (VP (VG (MD would) (ADVP (RB |n't|)) (VB raise))
+      (NP (NP (DT any) (NN objection))
+       (PP (IN to)
+        (NP (NP (DT the) (NN acquisition))
+         (PP (IN of)
+          (NP
+           (NP (NP (IN as) (NN much)) (SBAR (IN as) (S (NP (CD |15|) (NN %)))))
+           (PP (IN of) (NP (NNP Jaguar) (NNS shares))))))))))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 146: Typically , a margin call occurs when the price of a stock falls below 75  %  of its original  value  .
+Penn Treebank for Sentence 146:
+
+((S
+  (S (ADVP (RB Typically)) (|,| |,|) (NP (DT a) (NN margin) (NN call))
+   (VP (VG (VBZ occurs))))
+  (SBAR (WHADVP (PX (IN when)))
+   (S (NP (NP (DT the) (NN price)) (PP (IN of) (NP (DT a) (NN stock))))
+    (VP (VG (VBZ falls))
+     (PP (IN below)
+      (NP (NP (CD |75|) (NN %))
+       (PP (IN of) (NP (PRP$ its) (ADJP (JJ original)) (NN value))))))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 147: `` I 'd be disappointed if the  company   grew   by  less than 20  %  next year , '' said John Levinson , an analyst at Goldman , Sachs & Co .
+Penn Treebank for Sentence 147:
+
+((S (|``| |``|)
+  (S
+   (S (NP (PRP I)) (VP (VG (AUXP (MD |'d|)) (VB be)) (ADJP (JJ disappointed))))
+   (SBAR (PX (IN if))
+    (S (NP (DT the) (NN company))
+     (VP (VG (VBD grew))
+      (PP (IN by)
+       (NP (QP (QP (ADVP (RBR less)) (IN than)) (QP (CD |20|))) (NN %)))
+      (NP (ADJP (JJ next)) (NN year))))))
+  (|,| |,|) (|''| |''|) (VP (VG (VBD said)))
+  (NP (NP (NNP John) (NNP Levinson)) (|,| |,|)
+   (NP (NP (DT an) (NN analyst))
+    (PP (IN at)
+     (NP (NP (NNP Goldman)) (|,| |,|) (NP (NNP Sachs) (NNP &) (NNP Co))))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 148: The consensus among economists is that  it   grew  a much more sluggish 2.3  %  in the third quarter of 1989 , which ended two weeks ago .
+Penn Treebank for Sentence 148:
+
+((S (NP (NP (DT The) (NN consensus)) (PP (IN among) (NP (NNS economists))))
+  (VP (VG (VBZ is))
+   (SBAR (IN that)
+    (S (NP (PRP it))
+     (VP (VG (VBD grew))
+      (NP (DT a) (ADJP (ADVP (RB much)) (ADVP (RBR more)) (JJ sluggish))
+       (CD |2.3|) (NN %))
+      (PP (IN in)
+       (NP
+        (NP (NP (DT the) (JJ third) (NN quarter))
+         (PP (IN of) (NP (CD |1989|))))
+        (|,| |,|)
+        (SBAR (WHNP (WDT which))
+         (S
+          (VP (VG (VBD ended))
+           (ADVP (NP (CD two) (NNS weeks)) (RB ago)))))))))))
+  (|.| |.|)))
+
+Nombank Tags for Sentence 149: Freddie Mac said the principal-only securities were priced at 58 1/4 to yield 8.45 % , assuming an average life of eight years and a prepayment of 160  %  of the PSA  model  .
+Penn Treebank for Sentence 149:
+
+((S (NP (NNP Freddie) (NNP Mac))
+  (VP (VG (VBD said))
+   (SBAR
+    (S (NP (DT the) (JJ principal-only) (NNS securities))
+     (VP (VG (VBD were) (VBN priced)) (PP (IN at) (NP (CD |58|) (CD |1/4|)))
+      (S (VP (VG (TO to) (VB yield)) (NP (CD |8.45|) (NN %)))))))
+   (|,| |,|)
+   (S
+    (VP (VG (VBG assuming))
+     (NP
+      (NP (NP (DT an) (JJ average) (NN life))
+       (PP (IN of) (NP (CD eight) (NNS years))))
+      (CC and)
+      (NP (NP (DT a) (NN prepayment))
+       (PP (IN of)
+        (NP (NP (CD |160|) (NN %))
+         (PP (IN of) (NP (DT the) (NNP PSA) (NN model))))))))))
+  (|.| |.|)))
+

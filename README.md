@@ -1,5 +1,11 @@
 See README_old.md for the original readme.
 
+NLP Fall 2022 Final Project: Group 15
+Kevin Tong kt2653
+Haozhen Bo hb2432
+Namas Mankad nkm9348
+
+
 # How to run the code
 
 The data files are in part/ and percentage/. The parse trees are inside gold_parses/.

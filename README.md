@@ -1,6 +1,6 @@
-See README_old.md for the original readme.
+NLP Fall 2022 Final Project: Namas Mankad nkm9348 | Kevin Tong kt2653 | Haozhen Bo hb2432
 
-NLP Fall 2022 Final Project: Kevin Tong kt2653 | Haozhen Bo hb2432 | Namas Mankad nkm9348
+See README_old.md for the original readme.
 
 # How to run the code
 
